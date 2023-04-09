@@ -18,8 +18,8 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
   </tr>
   
   <tr>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
+    <td>Using Tidyverse for Missing Values</td>
+    <td>tidyverse missing values.R</td>
     <td> <p><a href="http://claire-scanlon.com/missing-values-with-tidyverse/"> Learn More</a></p> </td>
     
   </tr>
