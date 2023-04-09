@@ -3,6 +3,8 @@ This repository serves as my data analysis portfolio.  It holds the code and que
 
 You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlon">here</a>. 
 
+<h4> There is a file structure for the GitHub files. For example, R1_filename indicates it is a R Programming project.</h4>
+
 <h1> Portfolio Projects </h1>
 
 <h2><b> R Programming   </h2></b>
@@ -19,7 +21,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
   
   <tr>
     <td>Using Tidyverse for Missing Values</td>
-    <td>tidyverse missing values.R</td>
+    <td>R1_tidyverse missing values.R</td>
     <td> <p><a href="http://claire-scanlon.com/missing-values-with-tidyverse/"> Learn More</a></p> </td>
     
   </tr>
