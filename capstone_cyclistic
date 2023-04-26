@@ -40,5 +40,34 @@ tail(prepare_3Yhistorical)
 # Save merged data as CSV
 write.csv(prepare_3Yhistorical, file = "prepare_3Yhistorical", row.names = FALSE)
 
+############# Prepare Phase of Data Analysis Process #############
+
+# Installing Packages Needed for This Phase
+install.packages("DataExplorer")
+library(DataExplorer)
+
+# Reviewing Data Types
+str(prepare_cyclisticdata)
+
+# Summarizing Data & Saving to text file
+summary(prepare_cyclisticdata)
+capture.output(summary(prepare_cyclisticdata), file="prepare_cyclisticdata.txt")
+
+
+# Print summarise_all & save to text file
+summarise_all(prepare_cyclisticdata)
+capture.output(summarise_all(prepare_cyclisticdata), file="summarise_all.txt")
+
+# Print prepare_cyclisticdata & save to text file
+dim(prepare_cyclisticdata)
+capture.output(dim(prepare_cyclisticdata), file="dimensions.txt")
+
+
+create_report <- function(data) {
+  kable(head(data))
+}
+create_report(prepare_cyclisticdata)
+
+knit("data_prepare_check.Rmd", output="data_prepare_check.html")
 
 
