@@ -49,7 +49,7 @@ library(DataExplorer)
 # Reviewing Data Types
 str(prepare_cyclisticdata)
 
-# Summarizing Data & Saving to text file
+# Summarize Data & Save to text file
 summary(prepare_cyclisticdata)
 capture.output(summary(prepare_cyclisticdata), file="prepare_cyclisticdata.txt")
 
