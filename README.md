@@ -28,7 +28,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
   
   <tr>
     <td>Capstone Project</td>
-    <td>capstone_cyclistic_preparephase</td>
+    <td>coming soon</td>
     <td>Coming Soon</td>
   </tr>
 
