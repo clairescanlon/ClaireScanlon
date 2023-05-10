@@ -3,7 +3,6 @@ This repository serves as my data analysis portfolio.  It holds the code and que
 
 You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlon">here</a>. 
 
-<h4> There is a file structure for the GitHub files. For example, R1_filename indicates it is a R Programming project.</h4>
 
 <h1> Portfolio Projects </h1>
 
@@ -13,121 +12,36 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 <body>
 
 <table>
+ 
   <tr>
 <th>Project Name</th>
 <th>Name of GitHub File</th>
 <th>Blog Post </th>
   </tr>
-  
+ 
   <tr>
-    <td>Using Tidyverse for Missing Values</td>
-    <td>R1_tidyverse missing values.R</td>
-    <td> <p><a href="http://claire-scanlon.com/missing-values-with-tidyverse/"> Learn More</a></p> </td>
-    
-  </tr>
-  
-  <tr>
-    <td>Capstone Project</td>
-    <td>coming soon</td>
-    <td>Coming Soon</td>
-  </tr>
-
-  <tr>
-    <td>Coming Soon</td></td>
-    <td>Coming Soon</td></td>
+    <td> Merging Datasets </td></td>
+    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_MergingDatasets"> R Code </a> </td></td>
     <td>Coming Soon</td></td>
   </tr>
   
-
-</table>
-
-
-<h2><b> SQL   </h2></b>
-<table>
   <tr>
-<th>Project Name</th>
-<th>Name of GitHub File</th>
-<th>Blog Post </th>
+    <td> Preparing Data: Cleaning & Structuring </td></td>
+    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_PreparingData"> R Code </a> </td></td>
+    <td>Coming Soon</td></td>
+  </tr>
+ 
+  <tr>
+    <td> Coming Soon </td></td>
+    <td> Coming Soon </td></td>
+    <td> Coming Soon </td></td>
   </tr>
   
   <tr>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-  </tr>
-  
-  <tr>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-  </tr>
+    <td> Coming Soon </td></td>
+    <td> Coming Soon </td></td>
+    <td> Coming Soon </td></td>
+  </tr> 
 
-  <tr>
-    <td>Coming Soon</td></td>
-    <td>Coming Soon</td></td>
-    <td>Coming Soon</td></td>
-  </tr>
-  
-
-</table>
-
-
-
-<h2><b> Data Visualization </h2></b>
-<table>
-  <tr>
-<th>Project Name</th>
-<th>Name of GitHub File</th>
-<th>Blog Post </th>
-  </tr>
-  
-  <tr>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-  </tr>
-  
-  <tr>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-  </tr>
-
-  <tr>
-    <td>Coming Soon</td></td>
-    <td>Coming Soon</td></td>
-    <td>Coming Soon</td></td>
-  </tr>
-  
-
-</table>
-
-
-<h2><b> Python</h2></b>
-<table>
-  <tr>
-<th>Project Name</th>
-<th>Name of GitHub File</th>
-<th>Blog Post </th>
-  </tr>
-  
-  <tr>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-  </tr>
-  
-  <tr>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-    <td>Coming Soon</td>
-  </tr>
-
-  <tr>
-    <td>Coming Soon</td></td>
-    <td>Coming Soon</td></td>
-    <td>Coming Soon</td></td>
-  </tr>
-  
 
 </table>
