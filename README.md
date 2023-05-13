@@ -32,7 +32,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
   </tr>
  
   <tr>
-    <td> Preparing Data: Converting variables and data types,  Checking and removing outliers, Splitting Cleaned Data into Training and Test Sets </td></td>
+    <td> Preparing Data: Converting variables and data types, Checking and removing outliers, Splitting Cleaned Data into Training and Test Sets </td></td>
     <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_PreparingData"> R Code </a> </td></td>
     <td> Coming Soon </td></td>
   </tr>
