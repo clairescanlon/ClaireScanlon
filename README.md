@@ -38,8 +38,8 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
   </tr>
   
   <tr>
-    <td> Coming Soon </td></td>
-    <td> Coming Soon </td></td>
+    <td> Data Visualization </td></td>
+    <td> <a href="https://public.tableau.com/views/CyclisticBikeRideData/MostPopularStartStations?:language=en-US&:display_count=n&:origin=viz_share_link"> Tableau </a> </td></td>
     <td> Coming Soon </td></td>
   </tr> 
 
