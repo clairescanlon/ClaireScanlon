@@ -14,7 +14,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 <table>
  
   <tr>
-<th>Project Name</th>
+<th>Project Phase</th>
 <th> Link </th>
 <th>Blog Post </th>
   </tr>
