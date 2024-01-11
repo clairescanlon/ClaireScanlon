@@ -1,5 +1,5 @@
 # Data Analysis Portfolio
-This repository serves as my data analysis portfolio.  It holds the code and queries related to the projects in my portfolio. For full details, check out my portfolio website <a href="http://claire-scanlon.com/">here</a>.
+This repository serves as my data analysis portfolio.  It holds the code and queries related to the projects in my portfolio. 
 
 You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlon">here</a>. 
 
@@ -45,3 +45,5 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 
 
 </table>
+
+<h2><b> More Coming Soon - Stay Tuned </h2></b>
