@@ -6,7 +6,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 
 <h1> Portfolio Projects </h1>
 
-<h2><b> R Programming   </h2></b>
+<h2><b> Google Data Analytics Capstone Project   </h2></b>
 
 </head>
 <body>
