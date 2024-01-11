@@ -16,31 +16,26 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
   <tr>
 <th>Project Phase</th>
 <th> Link </th>
-<th>Blog Post </th>
   </tr>
  
   <tr>
     <td> Merging Datasets </td></td>
     <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_MergingDatasets"> R Code </a> </td></td>
-    <td>Coming Soon</td></td>
   </tr>
   
   <tr>
     <td> Preparing Data: Cleaning & Structuring </td></td>
     <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_PreparingData"> R Code </a> </td></td>
-    <td>Coming Soon</td></td>
   </tr>
  
   <tr>
     <td> Processing Data: Converting variables and data types, Checking and removing outliers, saving datasets, and splitting data into member and casual datasets. </td></td>
     <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_PreparingData"> R Code </a> </td></td>
-    <td> Coming Soon </td></td>
   </tr>
   
   <tr>
     <td> Data Visualization </td></td>
     <td> <a href="https://public.tableau.com/views/CyclisticBikeRideData/MostPopularStartStations?:language=en-US&:display_count=n&:origin=viz_share_link"> Tableau </a> </td></td>
-    <td> Coming Soon </td></td>
   </tr> 
 
 
