@@ -15,7 +15,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
  
   <tr>
 <th>Project Name</th>
-<th>Name of GitHub File</th>
+<th> Link </th>
 <th>Blog Post </th>
   </tr>
  
