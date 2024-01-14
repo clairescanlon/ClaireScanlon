@@ -10,10 +10,10 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 
 <h2><b> Google Data Analytics Capstone Project   </h2></b>
 Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](https://claire-scanlon.com/google-capstone-project"> Learn More </a> 
-</br>
- UNDER CONSTRUCTION
 </head>
 <body>
+ 
+</br>
 
 <table>
  
@@ -94,7 +94,10 @@ UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
- Project Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link]
+ </br>
+ UNDER CONSTRUCTION
+ </br>
 <table>
  
   <tr>
@@ -120,7 +123,9 @@ UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
- Project Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] 
+</br>  UNDER CONSTRUCTION  
+</br>
 <table>
  
   <tr>
@@ -146,7 +151,10 @@ UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
- Project Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link]
+</br>  
+ UNDER CONSTRUCTION  
+</br>
 <table>
  
   <tr>
@@ -172,7 +180,10 @@ UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
- Project Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link]
+  </br>
+ UNDER CONSTRUCTION
+ </br>
 <table>
  
   <tr>
@@ -198,7 +209,10 @@ UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
- Project Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link]
+  </br>
+ UNDER CONSTRUCTION
+ </br>
 <table>
  
   <tr>
@@ -224,7 +238,10 @@ UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
- Project Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link]
+  </br>
+ UNDER CONSTRUCTION
+ </br>
 <table>
  
   <tr>
@@ -250,7 +267,66 @@ UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
- Project Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link]
+  </br>
+ UNDER CONSTRUCTION
+ </br>
+<table>
+ 
+  <tr>
+<th>Project Phase</th>
+<th> Link </th>
+  </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
+  </tr>
+
+   </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
+  </tr>
+
+   </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
+  </tr>
+
+  <h2><b> Project Title </h2></b>
+ Project Details: [Link]
+  </br>
+ UNDER CONSTRUCTION
+ </br>
+<table>
+ 
+  <tr>
+<th>Project Phase</th>
+<th> Link </th>
+  </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
+  </tr>
+
+   </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
+  </tr>
+
+   </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
+  </tr>
+
+  <h2><b> Project Title </h2></b>
+ Project Details: [Link]
+  </br>
+ UNDER CONSTRUCTION
+ </br>
 <table>
  
   <tr>
