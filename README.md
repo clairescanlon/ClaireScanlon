@@ -17,9 +17,13 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 <th>Project Phase</th>
 <th> Link </th>
   </tr>
- 
   <tr>
-    <td> Merging Datasets </td></td>
+    <td> Merging Monthly Datasets into Yearly Datasets Using SQL </td></td>
+    <td> <a href=" "> SQL Query </a> </td></td>
+  </tr>
+  
+  <tr>
+    <td> Merging Yearly Datasets </td></td>
     <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_MergingDatasets"> R Code </a> </td></td>
   </tr>
   
