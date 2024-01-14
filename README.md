@@ -1,13 +1,15 @@
 # Data Analysis Portfolio
 This repository serves as my data analysis portfolio.  It holds the code and queries related to the projects in my portfolio. 
 
+Each project has a blog post on my portfolio website explaining the details of the project. The associated table contains different programming languages, tools used, and associated links. 
+
 You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlon">here</a>. 
 
 
 <h1> Portfolio Projects </h1>
 
 <h2><b> Google Data Analytics Capstone Project   </h2></b>
-Portfolio Details: [Link] - UNDER CONSTRUCTION
+Project Details: [Link] - UNDER CONSTRUCTION
 </head>
 <body>
 
@@ -48,7 +50,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <h2><b> More Coming Soon - UNDER CONSTRUCTION </h2></b>
 
 <h2><b> Sales Inventory Analysis Project </h2></b>
- Portfolio Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -63,18 +65,18 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 </table>
 
 <h2><b> Project Title </h2></b>
- Portfolio Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -83,24 +85,24 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
   </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 </table>
 
 <h2><b> Project Title </h2></b>
- Portfolio Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -109,24 +111,24 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
   </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 </table>
 
 <h2><b> Project Title </h2></b>
- Portfolio Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -135,24 +137,24 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
   </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 </table>
 
 <h2><b> Project Title </h2></b>
- Portfolio Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -161,24 +163,24 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
   </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 </table>
 
 <h2><b> Project Title </h2></b>
- Portfolio Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -187,24 +189,24 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
   </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 </table>
 
 <h2><b> Project Title </h2></b>
- Portfolio Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -213,24 +215,24 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
   </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 </table>
 
 <h2><b> Project Title </h2></b>
- Portfolio Details: [Link] - UNDER CONSTRUCTION
+ Project Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -239,18 +241,18 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
   </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 </table>
