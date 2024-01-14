@@ -29,7 +29,7 @@ Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](ht
   
   <tr>
     <td> Merging Yearly Datasets </td></td>
-    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_MergingDatasets"> R Code </a> </td></td>
+    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/c1fcdfb183789f8503098a1232a9161b6aaa0404/MergingYearlyDatasets"> R Code </a> </td></td>
   </tr>
   
   <tr>
