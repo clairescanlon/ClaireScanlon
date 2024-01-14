@@ -66,7 +66,7 @@ Come back again soon. Need to know more now? Contact me via email.
   </tr>
   
   <tr>
-    <td> SQL- Aggregation And Calculations </td></td>
+    <td> Aggregation And Calculations </td></td>
     <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/portfolio/Aggregation_Calculations"> SQL Query </a> </td></td>
   </tr>
 
