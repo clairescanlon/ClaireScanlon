@@ -47,3 +47,28 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 
 <h2><b> More Coming Soon - Stay Tuned </h2></b>
 Under Construction
+
+<h2><b> Project Title </h2></b>
+<table>
+ 
+  <tr>
+<th>Project Phase</th>
+<th> Link </th>
+  </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Linked Words </a> </td></td>
+  </tr>
+
+   </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Linked Words </a> </td></td>
+  </tr>
+
+   </tr>
+  <tr>
+    <td> Phase Name </td></td>
+    <td> <a href="LINK"> Linked Words </a> </td></td>
+  </tr>
+</table>
