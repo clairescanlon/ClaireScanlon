@@ -3,9 +3,11 @@ This repository serves as my data analysis portfolio.  It holds the code and que
 
 Each project has a blog post on my portfolio website explaining the details of the project. The associated table contains different programming languages, tools used, and associated links. 
 
-Portfolio Website <a href="www.claire-scanlon.com"> Learn More </a>. 
+Portfolio Website <a href="www.claire-scanlon.com"> Learn More </a>
+</br>
 Connect with me on LinkedIn <a href="www.linkedin.com/in//clairescanlon">here</a>. 
-
+</br>
+</br>
 
 <h1> Portfolio Projects </h1>
 
