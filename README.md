@@ -41,6 +41,11 @@ Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](ht
     <td> Processing Data: Converting variables and data types, Checking and removing outliers, saving datasets, and splitting data into member and casual datasets. </td></td>
     <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/portfolio/Phase2_PreparingData"> R Code </a> </td></td>
   </tr>
+
+   <tr>
+    <td> Analyzing Data with KPI targets </td></td>
+    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/c1fcdfb183789f8503098a1232a9161b6aaa0404/AnalyzeKPIs"> R Code </a> </td></td>
+  </tr>
   
   <tr>
     <td> Data Visualization </td></td>
