@@ -47,7 +47,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 
 <h2><b> More Coming Soon - UNDER CONSTRUCTION </h2></b>
 
-<h2><b> Project Title </h2></b>
+<h2><b> Sales Inventory Analysis Project </h2></b>
 <table>
  
   <tr>
