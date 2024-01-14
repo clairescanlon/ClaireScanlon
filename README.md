@@ -85,7 +85,7 @@ UNDER CONSTRUCTION
   </tr>
   
   <tr>
-    <td> Aggregation And Calculations </td></td>
+    <td> Aggregation & Calculations </td></td>
     <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/portfolio/Aggregation_Calculations"> SQL Query </a> </td></td>
   </tr>
 
