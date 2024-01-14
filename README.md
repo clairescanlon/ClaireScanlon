@@ -48,6 +48,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <h2><b> More Coming Soon - UNDER CONSTRUCTION </h2></b>
 
 <h2><b> Sales Inventory Analysis Project </h2></b>
+ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -73,6 +74,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
+ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -98,6 +100,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
+ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -123,6 +126,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
+ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -148,6 +152,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
+ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -173,6 +178,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
+ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -198,6 +204,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
+ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
@@ -223,6 +230,7 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 </table>
 
 <h2><b> Project Title </h2></b>
+ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <table>
  
   <tr>
