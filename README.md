@@ -55,8 +55,8 @@ Portfolio Details: [Link] - UNDER CONSTRUCTION
 <th> Link </th>
   </tr>
   <tr>
-    <td> SQL query performing aggregation and calculations on the sales data. </td></td>
-    <td> <a href="LINK"> Linked Words </a> </td></td>
+    <td> SQL Query for Aggregation And Calculations </td></td>
+    <td> <a href="LINK"> Coming Soon </a> </td></td>
   </tr>
 
    </tr>
