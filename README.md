@@ -51,6 +51,9 @@ Project Details: [Link] - UNDER CONSTRUCTION
 <h2><b> More Coming Soon - UNDER CONSTRUCTION </h2></b>
 Come back again soon. Need to know more now? Contact me via email. 
 
+</br>
+<h2> The section below is under construction.  </h2>
+
 <h2><b> Sales Inventory Analysis Project </h2></b>
  Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis"> Learn More </a> 
 
