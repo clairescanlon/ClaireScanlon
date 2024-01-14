@@ -65,8 +65,8 @@ Come back again soon. Need to know more now? Contact me via email.
 
    </tr>
   <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
+    <td> Data Cleaning & Preparation </td></td>
+    <td> <a href="LINK"> SQL Query </a> </td></td>
   </tr>
 
    </tr>
