@@ -19,6 +19,7 @@ Project Details: [Link] - UNDER CONSTRUCTION
 <th>Project Phase</th>
 <th> Link </th>
   </tr>
+  
   <tr>
     <td> Merging Monthly Datasets into Yearly Datasets Using SQL </td></td>
     <td> <a href=" "> SQL Query </a> </td></td>
@@ -59,10 +60,9 @@ Come back again soon. Need to know more now? Contact me via email.
 <th> Link </th>
   </tr>
 
-     </tr>
   <tr>
     <td> Data Cleaning & Preparation </td></td>
-    <td> <a href="LINK"> SQL Query </a> </td></td>
+    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/74e98266fe01e1ce7872eac8609a43e17b4c8097/DataCleaning_Prep"> SQL Query </a> </td></td>
   </tr>
   
   <tr>
