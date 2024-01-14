@@ -56,9 +56,11 @@ Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](ht
 </table>
 
 </br>
-<h1> The section below is under construction.  </h1>
+<center>
+ <h1> The section below is under construction.  </h1>
 Come back again soon. Need to know more now? Contact me via email. 
 <a href="mailto:clairehelenscanlon@gmail.com"> Email Me </a>
+</center>
 
 <h2><b> Sales Inventory Analysis Project </h2></b>
  Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis"> Learn More </a> 
