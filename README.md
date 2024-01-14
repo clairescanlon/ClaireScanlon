@@ -7,7 +7,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 <h1> Portfolio Projects </h1>
 
 <h2><b> Google Data Analytics Capstone Project   </h2></b>
-
+Portfolio Details: [Link] - UNDER CONSTRUCTION
 </head>
 <body>
 
@@ -55,7 +55,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 <th> Link </th>
   </tr>
   <tr>
-    <td> Phase Name </td></td>
+    <td> SQL query performing aggregation and calculations on the sales data. </td></td>
     <td> <a href="LINK"> Linked Words </a> </td></td>
   </tr>
 
