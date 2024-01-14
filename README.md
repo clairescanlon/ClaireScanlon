@@ -58,15 +58,16 @@ Come back again soon. Need to know more now? Contact me via email.
 <th>Project Phase</th>
 <th> Link </th>
   </tr>
-  <tr>
-    <td> SQL- Aggregation And Calculations </td></td>
-    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/portfolio/Aggregation_Calculations"> SQL Query </a> </td></td>
-  </tr>
 
-   </tr>
+     </tr>
   <tr>
     <td> Data Cleaning & Preparation </td></td>
     <td> <a href="LINK"> SQL Query </a> </td></td>
+  </tr>
+  
+  <tr>
+    <td> SQL- Aggregation And Calculations </td></td>
+    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/portfolio/Aggregation_Calculations"> SQL Query </a> </td></td>
   </tr>
 
    </tr>
