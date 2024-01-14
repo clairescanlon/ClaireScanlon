@@ -52,7 +52,10 @@ Project Details: [Link] - UNDER CONSTRUCTION
 Come back again soon. Need to know more now? Contact me via email. 
 
 <h2><b> Sales Inventory Analysis Project </h2></b>
- Project Details:  <a href=https://claire-scanlon.com/salesinventoryanalysis"> Learn More </a> 
+ Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis"> Learn More </a> 
+
+</br>
+
 UNDER CONSTRUCTION
 <table>
  
