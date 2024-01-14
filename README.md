@@ -9,7 +9,7 @@ You can also check me out on LinkedIn <a href="www.linkedin.com/in//clairescanlo
 <h1> Portfolio Projects </h1>
 
 <h2><b> Google Data Analytics Capstone Project   </h2></b>
-Project Details: [Link] - UNDER CONSTRUCTION
+Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](https://claire-scanlon.com/google-capstone-project"> Learn More </a> 
 </head>
 <body>
 
