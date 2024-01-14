@@ -48,6 +48,7 @@ Project Details: [Link] - UNDER CONSTRUCTION
 </table>
 
 <h2><b> More Coming Soon - UNDER CONSTRUCTION </h2></b>
+Come back again soon. Need to know more now? Contact me via email. 
 
 <h2><b> Sales Inventory Analysis Project </h2></b>
  Project Details: [Link] - UNDER CONSTRUCTION
@@ -58,8 +59,8 @@ Project Details: [Link] - UNDER CONSTRUCTION
 <th> Link </th>
   </tr>
   <tr>
-    <td> SQL Query for Aggregation And Calculations </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
+    <td> SQL- Aggregation And Calculations </td></td>
+    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/portfolio/Aggregation_Calculations"> SQL Query </a> </td></td>
   </tr>
 
    </tr>
