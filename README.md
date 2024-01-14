@@ -64,13 +64,16 @@ Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](ht
 Come back again soon. 
 </br>
 Need to know more now? 
+</br>
  Contact me via email. 
 <a href="mailto:clairehelenscanlon@gmail.com"> Email Me </a>
-
+</head>
+<body>
 
 <h2><b> Sales Inventory Analysis Project </h2></b>
  Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis"> Learn More </a> 
  UNDER CONSTRUCTION
+ 
 </br>
 
 
