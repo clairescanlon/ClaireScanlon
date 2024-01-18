@@ -72,6 +72,7 @@ Need to know more now?
 
 <h2><b> Sales Inventory Analysis Project </h2></b>
  Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis"> Learn More </a> 
+</br>
  UNDER CONSTRUCTION
  
 </br>
@@ -114,7 +115,7 @@ Need to know more now?
   </tr>
   <tr>
     <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
+    <td> <a href="LINK"> Python </a> </td></td>
   </tr>
 
    </tr>
