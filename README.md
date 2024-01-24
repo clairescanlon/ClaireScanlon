@@ -81,13 +81,6 @@ Need to know more now?
 <th> Link for Code </th>
 <th> Link for Corresponding Blog Post </th>
   </tr>
-  
-  <tr>
-    <td> Crypto and Price Data </td></td>
-    <td> Python </td></td>
-    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/be6787439dcf6002af48655d728696bc264c3b56/T1%20-%20Defining%20a%20List%20for%205%20Crypto%20Currencies.ipynb"> Python Code </a> </td></td>
-     <td> COMING SOON </td></td>
-  </tr>
 
 <tr>
     <td> Sales Inventory Analysis Project Part 1: Data Cleaning & Preparation </td></td>
@@ -103,9 +96,17 @@ Need to know more now?
     <td> <a href="https://claire-scanlon.com/salesinventoryanalysis"> Blog Post </a> </td></td>
   </tr>
 
+  
   <tr>
-    <td> COMING SOON </td></td>
-    <td> COMING SOON </td></td>
+    <td> Crypto and Price Data: Part 1 </td></td>
+    <td> Python </td></td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/be6787439dcf6002af48655d728696bc264c3b56/T1%20-%20Defining%20a%20List%20for%205%20Crypto%20Currencies.ipynb"> Python Code </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+  
+  <tr>
+    <td> Crypto and Price Data: Part 2 </td></td>
+    <td> Python </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
