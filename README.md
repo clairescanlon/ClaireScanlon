@@ -1,7 +1,7 @@
 # Data Analysis Portfolio
 This repository serves as my data analysis portfolio. 
 
-<h1> Othwe Links </h1>
+<h1> Other Links </h1>
  <a href="www.claire-scanlon.com"> Portfolio Website </a>
 </br>
 <a href="www.linkedin.com/in//clairescanlon">Connect with me on LinkedIn</a>
