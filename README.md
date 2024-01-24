@@ -114,7 +114,7 @@ Need to know more now?
 
 
   <tr>
-    <td> COMING SOON </td></td>
+    <td> Google Data Analytics Capstone </td></td>
     <td> COMING SOON </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
