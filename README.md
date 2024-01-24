@@ -1,6 +1,7 @@
 # Data Analysis Portfolio
-This repository serves as my data analysis portfolio.  It holds the code and blog posts related to the projects in my portfolio. 
+This repository serves as my data analysis portfolio. 
 
+<h1> Othwe Links </h1>
  <a href="www.claire-scanlon.com"> Portfolio Website </a>
 </br>
 <a href="www.linkedin.com/in//clairescanlon">Connect with me on LinkedIn</a>
