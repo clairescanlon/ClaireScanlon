@@ -59,8 +59,8 @@ Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](ht
 
 </br>
 
-<h1> Various Projects  </h1>
-This section is under construction. Come back again soon. 
+<h2> Various Projects  </h2>
+This section is under construction.
 </br>
 Need to know more now? 
 </br>
