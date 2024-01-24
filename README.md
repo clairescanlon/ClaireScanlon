@@ -1,7 +1,5 @@
 # Data Analysis Portfolio
-This repository serves as my data analysis portfolio.  It holds the code and queries related to the projects in my portfolio. 
-
-Each project has a blog post on my portfolio website explaining the details of the project. The associated table contains different programming languages, tools used, and associated links. 
+This repository serves as my data analysis portfolio.  It holds the code and blog posts related to the projects in my portfolio. 
 
 Portfolio Website <a href="www.claire-scanlon.com"> Learn More </a>
 </br>
