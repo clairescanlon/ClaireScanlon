@@ -100,14 +100,14 @@ Need to know more now?
   <tr>
     <td> Crypto and Price Data: Part 1 </td></td>
     <td> Python </td></td>
-    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/be6787439dcf6002af48655d728696bc264c3b56/T1%20-%20Defining%20a%20List%20for%205%20Crypto%20Currencies.ipynb"> Python Code </a> </td></td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/be6787439dcf6002af48655d728696bc264c3b56/T1%20-%20Defining%20a%20List%20for%205%20Crypto%20Currencies.ipynb"> Python </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
   
   <tr>
     <td> Crypto and Price Data: Part 2 </td></td>
     <td> Python </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/38ac80e672eba01a56bab8eb3b16957c47d8d95e/T2%20-%20Defining%20a%20Pandas%20Series%20with%20Custom%20Index.ipynb"> Python </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
 
