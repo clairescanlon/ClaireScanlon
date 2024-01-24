@@ -117,7 +117,7 @@ Need to know more now?
     <td> Customer Market Segmentation </td></td>
     <td> Python </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="https://claire-scanlon.com/customer-market-segmentation"> COMING SOON </a> </td></td>
   </tr>
 
   <tr>
