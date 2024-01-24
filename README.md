@@ -60,298 +60,107 @@ Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](ht
 
 </br>
 
-<h1> The section below is under construction.  </h1>
-Come back again soon. 
+<h1> Various Projects  </h1>
+This section is under construction. Come back again soon. 
 </br>
 Need to know more now? 
 </br>
  Contact me via email. 
 <a href="mailto:clairehelenscanlon@gmail.com"> Email Me </a>
+</br>
+</br>
 </head>
 <body>
 
-<h2><b> Sales Inventory Analysis Project </h2></b>
- Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis"> Learn More </a> 
+
 </br>
- UNDER CONSTRUCTION
  
-</br>
-
-
 <table>
  
   <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-
-  <tr>
-    <td> Data Cleaning & Preparation </td></td>
-    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/74e98266fe01e1ce7872eac8609a43e17b4c8097/DataCleaning_Prep"> SQL Query </a> </td></td>
+<th> Project Name </th>
+<th> Programming Language </th>
+<th> Link for Code </th>
+<th> Link for Corresponding Blog Post </th>
   </tr>
   
   <tr>
-    <td> Aggregation & Calculations </td></td>
-    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/portfolio/Aggregation_Calculations"> SQL Query </a> </td></td>
+    <td> Crypto and Price Data </td></td>
+    <td> Python </td></td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/be6787439dcf6002af48655d728696bc264c3b56/T1%20-%20Defining%20a%20List%20for%205%20Crypto%20Currencies.ipynb"> Python Code </a> </td></td>
+     <td> COMING SOON </td></td>
   </tr>
 
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
+<tr>
+    <td> Sales Inventory Analysis Project Part 1: Data Cleaning & Preparation </td></td>
+    <td> SQL </td></td>
+    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/74e98266fe01e1ce7872eac8609a43e17b4c8097/DataCleaning_Prep"> SQL </a> </td>
+     <td> <a href="https://claire-scanlon.com/salesinventoryanalysis"> Blog Post </a> </td></td>
   </tr>
+
+  <tr>
+    <td> Sales Inventory Analysis Project Part 2: Aggregation & Calculations </td></td>
+    <td> SQL </td></td>
+    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/portfolio/Aggregation_Calculations"> SQL </a> </td>
+    <td> <a href="https://claire-scanlon.com/salesinventoryanalysis"> Blog Post </a> </td></td>
+  </tr>
+
+  <tr>
+    <td> COMING SOON </td></td>
+    <td> COMING SOON </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+
+
+  <tr>
+    <td> COMING SOON </td></td>
+    <td> COMING SOON </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+
+  <tr>
+    <td> COMING SOON </td></td>
+    <td> COMING SOON </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+
+   <tr>
+    <td> COMING SOON </td></td>
+    <td> COMING SOON </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+
+   <tr>
+    <td> COMING SOON </td></td>
+    <td> COMING SOON </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+
+   <tr>
+    <td> COMING SOON </td></td>
+    <td> COMING SOON </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+
+   <tr>
+    <td> COMING SOON </td></td>
+    <td> COMING SOON </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+
+   <tr>
+    <td> COMING SOON </td></td>
+    <td> COMING SOON </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="LINK"> COMING SOON </a> </td></td>
+  </tr>
+  
 </table>
 
-<h2><b> Project Title </h2></b>
- Project Details: [Link]
- UNDER CONSTRUCTION
-</br>
- 
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Python </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-</table>
-
-<h2><b> Project Title </h2></b>
- Project Details: [Link] 
- UNDER CONSTRUCTION  
-</br>
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-</table>
-
-<h2><b> Project Title </h2></b>
- Project Details: [Link]
- UNDER CONSTRUCTION  
-</br>
-
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-</table>
-
-<h2><b> Project Title </h2></b>
- Project Details: [Link]
- UNDER CONSTRUCTION
- </br>
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-</table>
-
-<h2><b> Project Title </h2></b>
- Project Details: [Link]
- UNDER CONSTRUCTION
- 
- </br>
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-</table>
-
-<h2><b> Project Title </h2></b>
- Project Details: [Link]
-  </br>
- UNDER CONSTRUCTION
- </br>
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-</table>
-
-<h2><b> Project Title </h2></b>
- Project Details: [Link]
- UNDER CONSTRUCTION
- </br>
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-  <h2><b> Project Title </h2></b>
- Project Details: [Link]
- UNDER CONSTRUCTION
- </br>
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-  <h2><b> Project Title </h2></b>
- Project Details: [Link]
- UNDER CONSTRUCTION
- </br>
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-
-   </tr>
-  <tr>
-    <td> Phase Name </td></td>
-    <td> <a href="LINK"> Coming Soon </a> </td></td>
-  </tr>
-</table>
