@@ -115,7 +115,7 @@ Need to know more now?
 
   <tr>
     <td> Customer Market Segmentation </td></td>
-    <td> COMING SOON </td></td>
+    <td> Python </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
