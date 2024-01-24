@@ -3,7 +3,7 @@ This repository serves as my data analysis portfolio.  It holds the code and blo
 
  <a href="www.claire-scanlon.com"> Portfolio Website </a>
 </br>
-<a href="www.linkedin.com/in//clairescanlon">Connect with me on LinkedIn</a>. 
+<a href="www.linkedin.com/in//clairescanlon">Connect with me on LinkedIn</a>
 </br>
 </br>
 
