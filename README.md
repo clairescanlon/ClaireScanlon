@@ -4,7 +4,7 @@ This repository serves as my data analysis portfolio.
 <br/>
 <b> UNDER CONSTRUCTION </b>
 <br/>
-<i> Both portfolio sections on portfolio website and GitHub are undergoing a restructuring of all data analysis projects - come back again soon. </i>
+<i> Both the portfolio website and GitHub portfolio are undergoing a restructuring of all data analysis projects - come back again soon. </i>
 <br/>
 <br/>
 <h2> Other Links </h2>
