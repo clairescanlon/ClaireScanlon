@@ -122,7 +122,7 @@ Need to know more now?
   <tr>
     <td> Customer Market Segmentation </td></td>
     <td> Python </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/223cd286e2ceb5f644f05b52393d41e0ae5e1816/Customer%20Market%20Segmentation%20(1).ipynb"> Still Under Construction </a> </td></td>
     <td> <a href="https://claire-scanlon.com/customer-market-segmentation"> COMING SOON </a> </td></td>
   </tr>
 
