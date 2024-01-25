@@ -4,7 +4,7 @@ This repository serves as my data analysis portfolio.
 <br/>
 <b> UNDER CONSTRUCTION </b>
 <br/>
-This is undergoing a restructuring of all data analysis projects - come back again soon.
+<i> Both portfolio sections on portfolio website and GitHub are undergoing a restructuring of all data analysis projects - come back again soon. <i/>
 <br/>
 <h2> Other Links </h2>
  <a href="www.claire-scanlon.com"> Portfolio Website </a>
