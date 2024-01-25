@@ -105,10 +105,10 @@ Need to know more now?
 
   
   <tr>
-    <td> Crypto and Price Data: Part 1 </td></td>
+    <td> Defining Pandas Series To Store Cryptocurrency Data </td></td>
     <td> Python </td></td>
-    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/be6787439dcf6002af48655d728696bc264c3b56/T1%20-%20Defining%20a%20List%20for%205%20Crypto%20Currencies.ipynb"> Python </a> </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/ee5d8929ba6113bb2e6d0a94a427388f2e4337b4/Defining%20Pandas%20Series%20To%20Store%20Cryptocurrency%20Data"> Python </a> </td></td>
+    <td> <a href="https://claire-scanlon.com/crypto/"> Blog Post </a> </td></td>
   </tr>
   
   <tr>
