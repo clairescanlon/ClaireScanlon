@@ -111,13 +111,6 @@ Need to know more now?
     <td> <a href="https://claire-scanlon.com/crypto/"> Blog Post </a> </td></td>
   </tr>
   
-  <tr>
-    <td> Crypto and Price Data: Part 2 </td></td>
-    <td> Python </td></td>
-    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/38ac80e672eba01a56bab8eb3b16957c47d8d95e/T2%20-%20Defining%20a%20Pandas%20Series%20with%20Custom%20Index.ipynb"> Python </a> </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
-  </tr>
-
 
   <tr>
     <td> Customer Market Segmentation </td></td>
