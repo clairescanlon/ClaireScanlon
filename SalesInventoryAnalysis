@@ -1,0 +1,29 @@
+# This SQL query is analyzing the date field in the sales data to find the minimum and maximum dates present.
+
+
+SELECT
+  MIN(Date) AS min_date,
+  MAX(Date) AS max_date
+FROM
+  `salesinventoryanalysis-gdac.sales.Sales`
+
+# This SQL query transforms the raw sales data into aggregated metrics that support further analysis and identification of trends. 
+
+SELECT
+  EXTRACT (YEAR FROM date) AS Year,
+  EXTRACT (MONTH FROM date) AS Month,
+  ProductID,
+  ROUND(MAX(UnitPrice),2) AS UnitPrice,
+  SUM(Quantity) AS UnitsSold 
+FROM
+  `salesinventoryanalysis-gdac.sales.Sales`
+GROUP BY 
+  Year, 
+  Month, 
+  ProductID
+ORDER BY
+  Year,
+  Month,
+  ProductID
+
+
