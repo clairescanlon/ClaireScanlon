@@ -90,17 +90,10 @@ Need to know more now?
   </tr>
 
 <tr>
-    <td> Sales Inventory Analysis: Data Cleaning & Preparation </td></td>
+    <td> Sales Inventory Analysis</td></td>
     <td> SQL </td></td>
     <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/c357e5ed573a7b4c92b63965fe86bd0ae0528a9b/Sales%20Inventory%20Analysis"> SQL </a> </td>
      <td> <a href="https://claire-scanlon.com/salesinventoryanalysis"> Blog Post </a> </td></td>
-  </tr>
-
-  <tr>
-    <td> Sales Inventory Analysis Project Part 2: Aggregation & Calculations </td></td>
-    <td> SQL </td></td>
-    <td> <a href="https://github.com/clairescanlon/SalesInventoryAnalysis/blob/portfolio/Aggregation_Calculations"> SQL </a> </td>
-    <td> <a href="https://claire-scanlon.com/salesinventoryanalysis"> Blog Post </a> </td></td>
   </tr>
 
   
