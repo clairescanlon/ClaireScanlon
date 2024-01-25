@@ -1,6 +1,9 @@
 # Data Analysis Portfolio
 This repository serves as my data analysis portfolio. 
-
+<br/>
+<b> UNDER CONSTRUCTION </b>
+This is undergoing a restructuring of all data analysis projects - come back again soon.
+<br/>
 <h2> Other Links </h2>
  <a href="www.claire-scanlon.com"> Portfolio Website </a>
 </br>
