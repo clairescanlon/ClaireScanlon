@@ -8,7 +8,7 @@ This repository serves as my data analysis portfolio.
 <br/>
 <br/>
 <h2> Online Presence </h2>
- <a href="www.claire-scanlon.com"> Portfolio Website </a>
+ <a href=" "> Portfolio Website </a>
 </br>
 <a href="www.linkedin.com/in//clairescanlon">Connect with me on LinkedIn</a>
 </br>
