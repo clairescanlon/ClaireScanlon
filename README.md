@@ -106,7 +106,7 @@ Need to know more now?
  
 
   <tr>
-    <td> Web Scraping Job Postings for Data Analyst Roles </td></td>
+    <td> Web Scraping Job Postings for Data Analyst Roles (In Process) </td></td>
     <td> Python </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
