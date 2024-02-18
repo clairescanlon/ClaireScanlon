@@ -113,21 +113,21 @@ Need to know more now?
   </tr>
 
    <tr>
-    <td> Google Data Analysis Capstone: Part 1 </td></td>
+    <td> Google Data Analytics Capstone: Part 1 </td></td>
     <td> SQL </td></td>
     <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/10047dd8750dd771f77843fc3027a8c2ade1cb45/Google%20Data%20Analysis%20Capstone%3A%20Part%201"> SQL </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
 
    <tr>
-    <td> Google Data Analysis Capstone: Part 2 </td></td>
+    <td> Google Data Analytics Capstone: Part 2 </td></td>
     <td> R </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
 
    <tr>
-    <td> Google Data Analysis Capstone: Part 3 </td></td>
+    <td> Google Data Analytics Capstone: Part 3 </td></td>
     <td> Tableau </td></td>
     <td> <a href="LINK"> N/A </a> </td></td>
     <td> <a href="https://public.tableau.com/views/CyclisticBikeRideData/MostPopularStartStations?:language=en-US&:display_count=n&:origin=viz_share_link"> Tableau </a> </td></td>
