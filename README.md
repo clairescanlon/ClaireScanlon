@@ -42,14 +42,14 @@
    <tr>
     <td> Google Data Analytics Capstone: Part 2 </td></td>
     <td> R </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="https://github.com/clairescanlon/Data_Portfolio/blob/da271c1a6986c8977c9f4f784a62ba1f6446fa9d/Google%20Data%20Analytics%20Capstone%3A%20Part%202"> R Code </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
 
    <tr>
     <td> Google Data Analytics Capstone: Part 3 </td></td>
     <td> Tableau </td></td>
-    <td> <a href="LINK"> N/A </a> </td></td>
+    <td> N/A </td></td>
     <td> <a href="https://public.tableau.com/views/CyclisticBikeRideData/MostPopularStartStations?:language=en-US&:display_count=n&:origin=viz_share_link"> Tableau </a> </td></td>
   </tr>
 
