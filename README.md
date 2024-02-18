@@ -1,85 +1,15 @@
-# Data Analysis Portfolio
-This repository serves as my data analysis portfolio. 
+# Claire Scanlon's Portfolio
+This repository serves as my portfolio for data projects. 
 <br/>
 <br/>
 <b> UNDER CONSTRUCTION </b>
-<br/>
-<i> Both the portfolio website and GitHub portfolio are undergoing a restructuring of all data analysis projects - come back again soon. </i>
-<br/>
-<br/>
-<h2> Online Presence </h2>
- <a href=" "> Portfolio Website </a>
-</br>
-<a href="www.linkedin.com/in//clairescanlon">Connect with me on LinkedIn</a>
-</br>
-</br>
 
-<h1> Portfolio Projects </h1>
-
-<h2><b> Google Data Analytics Capstone Project   </h2></b>
-Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](https://claire-scanlon.com/google-capstone-project"> Learn More </a> 
-</head>
-<body>
- 
-</br>
-
-<table>
- 
-  <tr>
-<th>Project Phase</th>
-<th> Link </th>
-  </tr>
-  
-  <tr>
-    <td> Merging Monthly Datasets into Yearly Datasets Using SQL </td></td>
-    <td> <a href=" "> SQL Query </a> </td></td>
-  </tr>
-  
-  <tr>
-    <td> Merging Yearly Datasets </td></td>
-    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/c1fcdfb183789f8503098a1232a9161b6aaa0404/MergingYearlyDatasets"> R Code </a> </td></td>
-  </tr>
-  
-  <tr>
-    <td> Preparing the Data </td></td>
-    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/c1fcdfb183789f8503098a1232a9161b6aaa0404/DataPreparation"> R Code </a> </td></td>
-  </tr>
- 
-  <tr>
-    <td> Processing Data </td></td>
-    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/c1fcdfb183789f8503098a1232a9161b6aaa0404/ProcessingData"> R Code </a> </td></td>
-  </tr>
-
-   <tr>
-    <td> Analyzing Data with KPI targets </td></td>
-    <td> <a href="https://github.com/clairescanlon/CyclisticBikeData/blob/c1fcdfb183789f8503098a1232a9161b6aaa0404/AnalyzeKPIs"> R Code </a> </td></td>
-  </tr>
-  
-  <tr>
-    <td> Data Visualization </td></td>
-    <td> <a href=""> Tableau </a> </td></td>
-  </tr> 
-
-
-</table>
-
-</br>
 
 <h2> Various Projects  </h2>
-This section is under construction.
 </br>
-Need to know more now? 
-</br>
- Contact me via email. 
-<a href="mailto:clairehelenscanlon@gmail.com"> Email Me </a>
-</br>
-</br>
-</head>
-<body>
 
 
-</br>
- 
+
 <table>
  
   <tr>
