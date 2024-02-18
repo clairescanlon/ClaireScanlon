@@ -1,5 +1,4 @@
 # Claire Scanlon's Portfolio
-
 <table>
  
   <tr>
