@@ -1,0 +1,47 @@
+CREATE TABLE
+cyclistic-biketrip-capstone1.combined2020 AS
+
+SELECT*
+
+FROM (
+
+	SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_04`
+     UNION ALL
+
+  SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_05`
+     UNION ALL
+ 
+
+  SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_06`
+     UNION ALL
+
+  SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_07`
+     UNION ALL
+  
+  SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_08`
+     UNION ALL
+
+  SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_09`
+     UNION ALL
+
+  SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_10`
+     UNION ALL
+
+  SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_11`
+     UNION ALL
+
+  SELECT * 
+	FROM `cyclistic-biketrip-capstone1.2020_tripdata.2020_12`
+     UNION ALL
+
+  SELECT *
+  FROM `cyclistic-biketrip-capstone1.2020_tripdata`
+);
