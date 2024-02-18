@@ -1,13 +1,5 @@
 # Claire Scanlon's Portfolio
 This repository serves as my portfolio for data projects. 
-<br/>
-<br/>
-<b> UNDER CONSTRUCTION </b>
-
-
-<h2> Various Projects  </h2>
-</br>
-
 
 
 <table>
