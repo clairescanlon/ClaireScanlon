@@ -57,7 +57,7 @@ Project Details:  <a href="https://claire-scanlon.com/salesinventoryanalysis](ht
   
   <tr>
     <td> Data Visualization </td></td>
-    <td> <a href="https://public.tableau.com/views/CyclisticBikeRideData/MostPopularStartStations?:language=en-US&:display_count=n&:origin=viz_share_link"> Tableau </a> </td></td>
+    <td> <a href=""> Tableau </a> </td></td>
   </tr> 
 
 
@@ -113,24 +113,24 @@ Need to know more now?
   </tr>
 
    <tr>
-    <td> COMING SOON </td></td>
-    <td> COMING SOON </td></td>
+    <td> Google Data Analysis Capstone: Part 1 </td></td>
+    <td> SQL </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
 
    <tr>
-    <td> COMING SOON </td></td>
-    <td> COMING SOON </td></td>
+    <td> Google Data Analysis Capstone: Part 2 </td></td>
+    <td> R </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
 
    <tr>
-    <td> COMING SOON </td></td>
-    <td> COMING SOON </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> Google Data Analysis Capstone: Part 3 </td></td>
+    <td> Tableau </td></td>
+    <td> <a href="LINK"> N/A </a> </td></td>
+    <td> <a href="https://public.tableau.com/views/CyclisticBikeRideData/MostPopularStartStations?:language=en-US&:display_count=n&:origin=viz_share_link"> Tableau </a> </td></td>
   </tr>
 
    <tr>
