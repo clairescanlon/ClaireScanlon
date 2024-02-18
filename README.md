@@ -115,7 +115,7 @@ Need to know more now?
    <tr>
     <td> Google Data Analysis Capstone: Part 1 </td></td>
     <td> SQL </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/10047dd8750dd771f77843fc3027a8c2ade1cb45/Google%20Data%20Analysis%20Capstone%3A%20Part%201"> SQL </a> </td></td>
     <td> <a href="LINK"> COMING SOON </a> </td></td>
   </tr>
 
