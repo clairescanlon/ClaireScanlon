@@ -9,7 +9,7 @@
   </tr>
 
 <tr>
-    <td> Sales Inventory Analysis</td></td>
+    <td> Sales Inventory Analysis</td>
     <td> SQL </td></td>
     <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/c357e5ed573a7b4c92b63965fe86bd0ae0528a9b/Sales%20Inventory%20Analysis"> SQL </a> </td>
      <td> <a href="https://claire-scanlon.com/salesinventoryanalysis"> Blog Post </a> </td></td>
@@ -17,18 +17,18 @@
 
   
   <tr>
-    <td> Defining Pandas Series To Store Cryptocurrency Data </td></td>
-    <td> Python </td></td>
-    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/ee5d8929ba6113bb2e6d0a94a427388f2e4337b4/Defining%20Pandas%20Series%20To%20Store%20Cryptocurrency%20Data"> Python </a> </td></td>
-    <td> <a href="https://claire-scanlon.com/crypto/"> Blog Post </a> </td></td>
+    <td> Defining Pandas Series To Store Cryptocurrency Data </td>
+    <td> Python </td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/ee5d8929ba6113bb2e6d0a94a427388f2e4337b4/Defining%20Pandas%20Series%20To%20Store%20Cryptocurrency%20Data"> Python </a> </td>
+    <td> <a href="https://claire-scanlon.com/crypto/"> Blog Post </a> </td>
   </tr>
  
 
   <tr>
-    <td> Web Scraping Job Postings for Data Analyst Roles (In Process) </td></td>
-    <td> Python </td></td>
-    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/a54506bd9b8c522ff80dcd4cdeb7257ac81c7adc/DataAnalyst_JobPostings_Scraping.ipynb"> Python Code In Process </a> </td></td>
-    <td> <a href="LINK"> COMING SOON </a> </td></td>
+    <td> Web Scraping Job Postings for Data Analyst Roles (In Process) </td>
+    <td> Python </td>
+    <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/a54506bd9b8c522ff80dcd4cdeb7257ac81c7adc/DataAnalyst_JobPostings_Scraping.ipynb"> Python Code In Process </a> </td>
+    <td> <a href="LINK"> COMING SOON </a> </td>
   </tr>
 
    <tr>
