@@ -35,14 +35,14 @@
     <td> Google Data Analytics Capstone: Part 1 </td>
     <td> SQL </td>
     <td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/10047dd8750dd771f77843fc3027a8c2ade1cb45/Google%20Data%20Analysis%20Capstone%3A%20Part%201"> SQL </a> </td>
-    <td> <a href="LINK"> COMING SOON </a> </td>
+    <td> N/A </td>
   </tr>
 
    <tr>
     <td> Google Data Analytics Capstone: Part 2 </td>
     <td> R </td>
     <td> <a href="https://github.com/clairescanlon/Data_Portfolio/blob/da271c1a6986c8977c9f4f784a62ba1f6446fa9d/Google%20Data%20Analytics%20Capstone%3A%20Part%202"> R Code </a> </td>
-    <td> <a href="LINK"> COMING SOON </a> </td>
+    <td> N/A </td>
   </tr>
 
    <tr>
