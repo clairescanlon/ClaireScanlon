@@ -34,11 +34,11 @@
 
 <tr>
 
-<td> Web Scraping Job Postings for Data Analyst Roles (In Process) </td>
+<td> Web Scraping Job Postings for Data Analyst Roles </td>
 
 <td> Python </td>
 
-<td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/a54506bd9b8c522ff80dcd4cdeb7257ac81c7adc/DataAnalyst_JobPostings_Scraping.ipynb"> Python Code In Process </a> </td>
+<td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/a54506bd9b8c522ff80dcd4cdeb7257ac81c7adc/DataAnalyst_JobPostings_Scraping.ipynb"> Python </a> </td>
 
 </tr>
 
