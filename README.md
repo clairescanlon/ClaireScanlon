@@ -84,9 +84,9 @@
 
 <tr>
 
-<td> COMING SOON </td>
+<td> Simple Aged Cache </td>
 
-<td> COMING SOON </td>
+<td> Kotlin </td>
 
 <td> <a href="LINK"> COMING SOON </a> </td>
 
