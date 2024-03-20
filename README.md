@@ -74,9 +74,9 @@
 
 <tr>
 
-<td> COMING SOON </td>
+<td> Simple Aged Cache </td>
 
-<td> COMING SOON </td>
+<td> Java </td>
 
 <td> <a href="LINK"> COMING SOON </a> </td>
 
