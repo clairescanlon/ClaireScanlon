@@ -2,6 +2,7 @@
 Computer Science & Data Science Master's Candidate. 
 
 # Claire Scanlon's Portfolio Projects
+Below you will find a list of various projects I worked on in table format. 
 
 <table>
 
