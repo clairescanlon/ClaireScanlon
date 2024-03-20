@@ -1,4 +1,7 @@
-# Claire Scanlon's Portfolio
+# About Claire Scanlon
+Computer Science & Data Science Master's Candidate. 
+
+# Claire Scanlon's Portfolio Projects
 
 <table>
 
