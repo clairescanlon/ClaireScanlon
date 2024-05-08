@@ -18,7 +18,7 @@ COMING SOON - UNDER CONSTRUCTION
 
 
 ⏪ 𝗜 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀/𝗼𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝘁𝗲𝗮𝗺𝘀:
- • analytics
+ • marketing analytics
  • consulting
  • strategy
  • business planning
