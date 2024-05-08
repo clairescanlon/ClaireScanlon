@@ -1,10 +1,8 @@
 # Welcome to my GitHub repository!
 
-I'm **Claire Scanlon**, a data-driven strategist and analyst 
+Hello! I’m Claire Scanlon, a dedicated data analyst and strategist with a passion for identifying insights from complex data. 
 
-
-
-
+I believe in the power of data to drive positive change and growth. I am committed to empowering others with data. 
 
 Thank you for visiting the technical side of my portfolio. </br> </br>
  🎚️ For non-technical audiences: each completed project has a blog post that explains the project in simple terms. You can find these blog posts linked alongside the project details. 
