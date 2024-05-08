@@ -8,9 +8,13 @@ Thank you for visiting the technical side of my portfolio. </br> </br>
  🎚️ For non-technical audiences: each completed project has a blog post that explains the project in simple terms. You can find these blog posts linked alongside the project details. 
 
 ### About Me  </br>
-My pattern recognition abilities were developed navigating through life with a hearing loss. This ability gives me an advantage as it enables me to identify patterns that are commonly overlooked. 
+Despite not letting my hearing loss define my abilities, I always knew that my hearing loss was a strength and gave an advantage professionally. It wasn't until a few years ago that I realized what it was.  </br>
+</br>
+I eventually realized I was always using data and information for everything I was doing, both personally and professionally. Every strategy and process was data-driven. Different data sources would get combined to identify patterns and trends.  </br>
 
-I know the power of information. I want others to know the power as well. 
+I also love data storytelling, empowering others with the information learned from the data. 
+
+I know the power of data-driven decision making. I want others to know the power as well. 
 </br>
 </br>
 
