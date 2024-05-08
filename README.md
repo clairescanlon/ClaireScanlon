@@ -23,14 +23,15 @@ COMING SOON - UNDER CONSTRUCTION
 
 ⏪ 𝗜 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀/𝗼𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝘁𝗲𝗮𝗺𝘀:
 <ul>
-  <li>Marketing analytics</li>
+  <li>Marketing Analytics</li>
   <li>Consulting</li>
   <li>Strategy</li>
-  <li>Business planning</li>
+  <li>Business Planning</li>
   <li>Marketing</li>
-  <li>Data analysis</li>
-  <li>Wealth management</li>
-  <li>Technology startups</li>
+  <li>Data Analysis</li>
+  <li>Wealth Management</li>
+  <li>Technology Startups</li>
+  <li>Data Storytelling and Visualization </li>
 </ul>
 
 👩‍💻 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗼𝗼𝗹𝗸𝗶𝘁 / 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸: 
