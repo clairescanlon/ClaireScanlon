@@ -7,7 +7,7 @@ I'm **Claire Scanlon**.
 
 
 Thank you for visiting the technical side of my portfolio. </br>
-For non-technical audiences, completed projects have a blog post detailing the non-technical aspects of the project. Those blog posts are linked in the same row with the project details. 
+🎚️ For non-technical audiences, completed projects have a blog post detailing the non-technical aspects of the project. Those blog posts are linked in the same row with the project details. 
 
 ### About Me  </br>
 Growing up with hearing loss, I learned to gather, connect, and analyze information based on the information I had. I was always looking for patterns and filling in gaps to complete my understanding of what was going on.  This valuable skill and mindset drew me to data analysis. I spot connections and patterns between disparate data points that others frequently overlook.
@@ -16,11 +16,12 @@ I know the power of information. I want others to know the power as well.
 </br>
 </br>
 
+### Projects
  #### Ongoing Portfolio Projects </br>
-COMING SOON - UNDER CONSTRUCTION
+  COMING SOON - UNDER CONSTRUCTION
 
  #### Finished Portfolio Projects </br>
- COMING SOON - UNDER CONSTRUCTION
+  COMING SOON - UNDER CONSTRUCTION
 </br>
 </br>
 
