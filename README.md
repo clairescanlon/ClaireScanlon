@@ -1,143 +1,55 @@
-# About Claire Scanlon
-Computer Science & Data Science Master's Candidate. 
+# Welcome to my GitHub repository!
 
-# Claire Scanlon's Portfolio Projects
-Below you will find a list of various projects I worked on in table format. If one of these are not complete or you don't see what you are looking for, reach out to me. 
-<br/>
+I'm **Claire Scanlon**. 
 
+Thank you for visiting the technical side of my portfolio. 
 
+### About Me 
+Professionally, I aspire to bring my technical expertise and passion in analytics to issues related to the common good, economic and political wellbeing, and strategic initiaitves in the non-profit, public, and private sectors!
 
+#### Ongoing Portfolio Projects
+COMING SOON - UNDER CONSTRUCTION
 
-<table>
+#### Finished Portfolio Projects
+ ℹ️  *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via email if you are looking for something specific.  ℹ️ 
 
-<tr>
+ COMING SOON - UNDER CONSTRUCTION
 
-<th> Project Name </th>
+### ℹ️  Details Below  ℹ️
 
-<th> Programming Language </th> 
 
-<th> Link for Code </th>
+⏪ 𝗜 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀/𝗼𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝘁𝗲𝗮𝗺𝘀:
+ • analytics
+ • consulting
+ • strategy
+ • business planning
+ • marketing
+ • data analysis 
+ • wealth management 
+ • technology startups
 
-</tr>
+👩‍💻 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗼𝗼𝗹𝗸𝗶𝘁 / 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸:
+ COMING SOON - UNDER CONSTRUCTION
 
-<tr>
 
-<td> Sales Inventory Analysis</td>
+ 📊𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗱𝗮𝘁𝗮𝘀𝗲𝘁𝘀 𝗜 𝗵𝗮𝘃𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴:
+  COMING SOON - UNDER CONSTRUCTION
 
-<td> SQL </td>
+🎓 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗳𝗿𝗼𝗺 Rochester Institute of Technology in 2012 with a B.S. in Business Administration and Marketing.
+💻 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 with a focus on Data Science at University of Colorado, Boulder.  
 
-<td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/c357e5ed573a7b4c92b63965fe86bd0ae0528a9b/Sales%20Inventory%20Analysis"> SQL </a> </td>
+📌 I was born and raised in New Haven, Connecticut. I am a strong believer in the power of New Haven apizza.
 
-</tr>
+💫 𝗝𝗼𝗯 𝗧𝗶𝘁𝗹𝗲𝘀 𝗼𝗳 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁: Data Analyst, 
 
-<tr>
+#### 🔎 How to Connect With Me and Find My Work 
+ COMING SOON - UNDER CONSTRUCTION
+ In the meantime, shoot me an <a href="mailto:clairehelenscanlon@gmail.com"> e-mail. </a>
 
-<td> Defining Pandas Series To Store Cryptocurrency Data </td>
 
-<td> Python </td>
+#### Footnotes
+🔴 ℹ️  *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via email if you are looking for something specific.  ℹ️ 
+🟢 Finished projects have a blog post link, leading to a post that explains the project for non-technical audiences. 
+- This homepage was inspired and modeled by Tucker Rasbury (https://github.com/TuckerRasbury/TuckerRasbury/edit/main/README.md)
 
-<td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/ee5d8929ba6113bb2e6d0a94a427388f2e4337b4/Defining%20Pandas%20Series%20To%20Store%20Cryptocurrency%20Data"> Python </a> </td>
 
-</tr>
-
-<tr>
-
-<td> Web Scraping Job Postings for Data Analyst Roles </td>
-
-<td> Python </td>
-
-<td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/a54506bd9b8c522ff80dcd4cdeb7257ac81c7adc/DataAnalyst_JobPostings_Scraping.ipynb"> Python </a> </td>
-
-</tr>
-
-<tr>
-
-<td> Google Data Analytics Capstone: Part 1 </td>
-
-<td> SQL </td>
-
-<td> <a href="https://github.com/clairescanlon/Data_Analysis_Portfolio/blob/10047dd8750dd771f77843fc3027a8c2ade1cb45/Google%20Data%20Analysis%20Capstone%3A%20Part%201"> SQL </a> </td>
-
-</tr>
-
-<tr>
-
-<td> Google Data Analytics Capstone: Part 2 </td>
-
-<td> R </td>
-
-<td> <a href="https://github.com/clairescanlon/Data_Portfolio/blob/da271c1a6986c8977c9f4f784a62ba1f6446fa9d/Google%20Data%20Analytics%20Capstone%3A%20Part%202"> R Code </a> </td>
-
-</tr>
-
-<tr>
-
-<td> Google Data Analytics Capstone: Part 3 </td>
-
-<td> Tableau </td> 
-
-<td> N/A </td>
-
-</tr>
-
-<tr>
-
-<td> Simple Aged Cache </td>
-
-<td> Java </td>
-
-<td> <a href="LINK"> COMING SOON </a> </td>
-
-</tr>
-
-<tr>
-
-<td> Simple Aged Cache </td>
-
-<td> Kotlin </td>
-
-<td> <a href="LINK"> COMING SOON </a> </td>
-
-</tr>
-
-<tr>
-
-<td> COMING SOON </td>
-
-<td> COMING SOON </td>
-
-<td> <a href="LINK"> COMING SOON </a> </td>
-
-</tr>
-
-<tr>
-
-<td> COMING SOON </td>
-
-<td> COMING SOON </td>
-
-<td> <a href="LINK"> COMING SOON </a> </td>
-
-</tr>
-
-<tr>
-
-<td> COMING SOON </td>
-
-<td> COMING SOON </td>
-
-<td> <a href="LINK"> COMING SOON </a> </td>
-
-</tr>
-
-<tr>
-
-<td> COMING SOON </td>
-
-<td> COMING SOON </td>
-
-<td> <a href="LINK"> COMING SOON </a> </td>
-
-</tr>
-
-</table>
