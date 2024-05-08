@@ -48,6 +48,7 @@ COMING SOON - UNDER CONSTRUCTION
 
 📌 I was born and raised in New Haven, Connecticut. I am a strong believer in the power of New Haven apizza.
 </br>
+</br>
 
 💫 𝗝𝗼𝗯 𝗧𝗶𝘁𝗹𝗲𝘀 𝗼𝗳 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁: Data Analyst, 
 </br>
