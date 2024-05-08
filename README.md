@@ -7,6 +7,8 @@ Thank you for visiting the technical side of my portfolio. For non-technical aud
 ### About Me 
 </br>
 COMING SOON - UNDER CONSTRUCTION
+</br>
+</br>
 
 #### Ongoing Portfolio Projects
 </br>
