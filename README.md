@@ -1,22 +1,24 @@
 # Welcome to my GitHub repository!
 
-I'm **Claire Scanlon**. 
+I'm **Claire Scanlon**, a data-driven strategist and analyst 
 
 
 
 
 
 Thank you for visiting the technical side of my portfolio. </br> </br>
- 🎚️ For non-technical audiences, completed projects have a blog post detailing the non-technical aspects of the project. Those blog posts are linked in the same row with the project details. 
+ 🎚️ For non-technical audiences: each completed project has a blog post that explains the project in simple terms. You can find these blog posts linked alongside the project details. 
 
 ### About Me  </br>
-Growing up with hearing loss, I learned to gather, connect, and analyze information based on the information I had. I was always looking for patterns and filling in gaps to complete my understanding of what was going on.  This valuable skill and mindset drew me to data analysis. I spot connections and patterns between disparate data points that others frequently overlook.
+My pattern recognition abilities were developed navigating through life with a hearing loss. This ability gives me an advantage as it enables me to identify patterns that are commonly overlooked. 
 
 I know the power of information. I want others to know the power as well. 
 </br>
 </br>
 
 ### Projects
+My projects are divided into two categories: ongoing projects and finished projects. Both sections are currently under construction.
+
  #### ⚙️ Ongoing Portfolio Projects </br>
   COMING SOON - UNDER CONSTRUCTION
 
@@ -53,8 +55,13 @@ I know the power of information. I want others to know the power as well.
     <li>PostgreSQL</li>
     <li>Oracle</li>
     <li>Snowflake</li>
-     <li> </li>
-    <li> </li>
+    <li>Jupyter Notebook</li>
+    <li>GitHub</li>
+    <li>Jupyter Notebook</li>
+     <li>   COMING SOON - UNDER CONSTRUCTION  </li>
+    <li>   COMING SOON - UNDER CONSTRUCTION  </li>
+     <li>   COMING SOON - UNDER CONSTRUCTION  </li>
+    <li>   COMING SOON - UNDER CONSTRUCTION  </li>
     <li>Currently learning Java</li>
 </ul>
  </br>
@@ -79,14 +86,14 @@ I know the power of information. I want others to know the power as well.
 
 #### 🔎 How to Connect With Me and Find My Work </br>
  COMING SOON - UNDER CONSTRUCTION! </br>
- ✉️ In the meantime, shoot me an <a href="mailto:clairehelenscanlon@gmail.com"> e-mail. </a>
+ ✉️ If you’re looking for something specific, please reach out to me directly via <a href="mailto:clairehelenscanlon@gmail.com"> e-mail. </a>
 
 </br>
 </br>
 </br>
 
 #### Footnotes
-🔴 *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via email if you are looking for something specific.  </br>
+🔴 *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via  <a href="mailto:clairehelenscanlon@gmail.com"> e-mail </a> if you are looking for something specific.  </br>
 🟢 Finished projects have a blog post link, leading to a post that explains the project for non-technical audiences. </br>
 🟢 This homepage was inspired and modeled by Tucker Rasbury (https://github.com/TuckerRasbury/TuckerRasbury/edit/main/README.md)
 
