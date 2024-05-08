@@ -6,8 +6,8 @@ I'm **Claire Scanlon**.
 
 
 
-Thank you for visiting the technical side of my portfolio. </br>
-🎚️ For non-technical audiences, completed projects have a blog post detailing the non-technical aspects of the project. Those blog posts are linked in the same row with the project details. 
+Thank you for visiting the technical side of my portfolio. </br> </br>
+ 🎚️ For non-technical audiences, completed projects have a blog post detailing the non-technical aspects of the project. Those blog posts are linked in the same row with the project details. 
 
 ### About Me  </br>
 Growing up with hearing loss, I learned to gather, connect, and analyze information based on the information I had. I was always looking for patterns and filling in gaps to complete my understanding of what was going on.  This valuable skill and mindset drew me to data analysis. I spot connections and patterns between disparate data points that others frequently overlook.
@@ -17,19 +17,18 @@ I know the power of information. I want others to know the power as well.
 </br>
 
 ### Projects
- #### Ongoing Portfolio Projects </br>
+ #### ⚙️ Ongoing Portfolio Projects </br>
   COMING SOON - UNDER CONSTRUCTION
 
- #### Finished Portfolio Projects </br>
+ #### ✔️ Finished Portfolio Projects </br>
   COMING SOON - UNDER CONSTRUCTION
 </br>
 </br>
 
-### ℹ️  Details Below 
-</br>
+### Experience and Skills
 </br>
 
-⏪ 𝗜 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀/𝗼𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝘁𝗲𝗮𝗺𝘀:
+💡	 𝗜 𝗵𝗮𝘃𝗲 𝘄𝗼𝗿𝗸𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀/𝗼𝗻 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝘁𝗲𝗮𝗺𝘀:
 <ul>
   <li>Marketing Analytics</li>
   <li>Consulting</li>
@@ -54,6 +53,8 @@ I know the power of information. I want others to know the power as well.
     <li>PostgreSQL</li>
     <li>Oracle</li>
     <li>Snowflake</li>
+     <li> </li>
+    <li> </li>
     <li>Currently learning Java</li>
 </ul>
  </br>
@@ -62,10 +63,12 @@ I know the power of information. I want others to know the power as well.
  </br>
   COMING SOON - UNDER CONSTRUCTION  </br>
  </br>
+ 
+### Education
 🎓 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗳𝗿𝗼𝗺 Rochester Institute of Technology in 2012 with a B.S. in Business Administration and Marketing. </br>
 💻 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 with a focus on Data Science at University of Colorado, Boulder.  
 </br>
-
+### Additional Information
 📌 I was born and raised in New Haven, Connecticut. I am a strong believer in the power of New Haven apizza.
 </br>
 </br>
@@ -75,8 +78,8 @@ I know the power of information. I want others to know the power as well.
 </br>
 
 #### 🔎 How to Connect With Me and Find My Work </br>
- COMING SOON - UNDER CONSTRUCTION! 
- In the meantime, shoot me an <a href="mailto:clairehelenscanlon@gmail.com"> e-mail. </a>
+ COMING SOON - UNDER CONSTRUCTION! </br>
+ ✉️ In the meantime, shoot me an <a href="mailto:clairehelenscanlon@gmail.com"> e-mail. </a>
 
 </br>
 </br>
@@ -85,6 +88,6 @@ I know the power of information. I want others to know the power as well.
 #### Footnotes
 🔴 *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via email if you are looking for something specific.  </br>
 🟢 Finished projects have a blog post link, leading to a post that explains the project for non-technical audiences. </br>
-- This homepage was inspired and modeled by Tucker Rasbury (https://github.com/TuckerRasbury/TuckerRasbury/edit/main/README.md)
+🟢 This homepage was inspired and modeled by Tucker Rasbury (https://github.com/TuckerRasbury/TuckerRasbury/edit/main/README.md)
 
 
