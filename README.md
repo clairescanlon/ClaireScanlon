@@ -2,7 +2,7 @@
 
 I'm **Claire Scanlon**. 
 
-Thank you for visiting the technical side of my portfolio. 
+Thank you for visiting the technical side of my portfolio. For non-technical audiences, completed projects have a blog post detailing the non-technical aspects of the project. Those blog posts are linked in the same row with the project details. 
 
 ### About Me 
 COMING SOON - UNDER CONSTRUCTION
