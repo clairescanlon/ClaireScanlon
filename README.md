@@ -56,7 +56,7 @@ COMING SOON - UNDER CONSTRUCTION
 </br>
 
 #### 🔎 How to Connect With Me and Find My Work </br>
- COMING SOON - UNDER CONSTRUCTION
+ COMING SOON - UNDER CONSTRUCTION! 
  In the meantime, shoot me an <a href="mailto:clairehelenscanlon@gmail.com"> e-mail. </a>
 
 </br>
