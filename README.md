@@ -2,10 +2,16 @@
 
 I'm **Claire Scanlon**. 
 
+
+
+
+
 Thank you for visiting the technical side of my portfolio. For non-technical audiences, completed projects have a blog post detailing the non-technical aspects of the project. Those blog posts are linked in the same row with the project details. 
 
 ### About Me  </br>
-COMING SOON - UNDER CONSTRUCTION
+Growing up with hearing loss, I learned to gather, connect, and analyze information based on the information I had. I was always looking for patterns and filling in gaps to complete my understanding of what was going on.  This valuable skill and mindset drew me to data analysis. I spot connections and patterns between disparate data points that others frequently overlook.
+
+I know the power of information. I want others to know the power as well. 
 </br>
 </br>
 
@@ -33,15 +39,25 @@ COMING SOON - UNDER CONSTRUCTION
   <li>Technology Startups</li>
   <li>Data Storytelling and Visualization </li>
 </ul>
+</br>
 
 👩‍💻 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗼𝗼𝗹𝗸𝗶𝘁 / 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸: 
-</br>
- COMING SOON - UNDER CONSTRUCTION
-
-
+<ul>
+    <li>SQL</li>
+    <li>Python</li>
+    <li>R</li>
+    <li>Tableau and Power BI</li>
+    <li>Microsoft Excel</li>
+    <li>Google Big Query</li>
+    <li>PostgreSQL</li>
+    <li>Oracle</li>
+    <li>Snowflake</li>
+    <li>Currently learning Java</li>
+</ul>
+ </br>
  📊𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗱𝗮𝘁𝗮𝘀𝗲𝘁𝘀 𝗜 𝗵𝗮𝘃𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴:
  </br>
-  COMING SOON - UNDER CONSTRUCTION
+  COMING SOON - UNDER CONSTRUCTION  </br>
 
 🎓 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗳𝗿𝗼𝗺 Rochester Institute of Technology in 2012 with a B.S. in Business Administration and Marketing. </br>
 💻 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 with a focus on Data Science at University of Colorado, Boulder.  
