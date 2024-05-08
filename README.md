@@ -2,20 +2,16 @@
 
 Hello! I’m Claire Scanlon, a dedicated data analyst and strategist with a passion for identifying insights from complex data. 
 
-I believe in the power of data to drive positive change and growth. I am committed to empowering others with data. 
-
 Thank you for visiting the technical side of my portfolio. </br> </br>
  🎚️ For non-technical audiences: each completed project has a blog post that explains the project in simple terms. You can find these blog posts linked alongside the project details. 
 
 ### About Me  </br>
-Despite not letting my hearing loss define my abilities, I always knew that my hearing loss was a strength and gave an advantage professionally. It wasn't until a few years ago that I realized what it was.  </br>
-</br>
-I eventually realized I was always using data and information for everything I was doing, both personally and professionally. Every strategy and process was data-driven. Different data sources would get combined to identify patterns and trends.  </br>
+I never saw my hearing loss as a limitation and never let it stop me from doing what I wanted to do. I always felt it gave me an unique strength professionally. It took me a while to figure out exactly what it was. A few years ago, it hit me. I was using data and information in everything I did, both professionally and personally. Every strategy, every process, every decision was driven by data. I was combining different data sources and spotting patterns and trends within the data.
+</br> 
 
-I also love data storytelling, empowering others with the information learned from the data. 
-
-I know the power of data-driven decision making. I want others to know the power as well. 
+I also love telling stories with data, empowering others with data-driven information. 
 </br>
+My life is all about the power of decisions driven by data. I want to help others see that power too.
 </br>
 
 ### Projects
