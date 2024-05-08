@@ -43,7 +43,7 @@ My projects are divided into two categories: ongoing projects and finished proje
 </ul>
 </br>
 
-👩‍💻 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗼𝗼𝗹𝗸𝗶𝘁 / 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸: 
+🧰 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗼𝗼𝗹𝗸𝗶𝘁 / 𝘁𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸: 
 <ul>
     <li>SQL</li>
     <li>Python</li>
