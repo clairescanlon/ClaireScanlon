@@ -5,14 +5,13 @@ I'm **Claire Scanlon**.
 Thank you for visiting the technical side of my portfolio. 
 
 ### About Me 
-Professionally, I aspire to bring my technical expertise and passion in analytics to issues related to the common good, economic and political wellbeing, and strategic initiaitves in the non-profit, public, and private sectors!
+COMING SOON - UNDER CONSTRUCTION
 
 #### Ongoing Portfolio Projects
 COMING SOON - UNDER CONSTRUCTION
 
 #### Finished Portfolio Projects
  ℹ️  *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via email if you are looking for something specific.  ℹ️ 
-
  COMING SOON - UNDER CONSTRUCTION
 
 ### ℹ️  Details Below  ℹ️
