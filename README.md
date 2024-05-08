@@ -11,7 +11,7 @@ COMING SOON - UNDER CONSTRUCTION
 COMING SOON - UNDER CONSTRUCTION
 
 #### Finished Portfolio Projects
- ℹ️  *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via email if you are looking for something specific.  ℹ️ 
+ ℹ️  *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via email if you are looking for something specific.  ℹ️  </br>
  COMING SOON - UNDER CONSTRUCTION
 
 ### ℹ️  Details Below  ℹ️
