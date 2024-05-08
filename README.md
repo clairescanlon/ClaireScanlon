@@ -11,6 +11,7 @@ I never saw my hearing loss as a limitation and never let it stop me from doing 
 
 I also love telling stories with data, empowering others with data-driven information. 
 </br>
+</br>
 My life is all about the power of decisions driven by data. I want to help others see that power too.
 </br>
 
@@ -73,8 +74,14 @@ My projects are divided into two categories: ongoing projects and finished proje
 🎓 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗳𝗿𝗼𝗺 Rochester Institute of Technology in 2012 with a B.S. in Business Administration and Marketing. </br>
 💻 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 with a focus on Data Science at University of Colorado, Boulder.  
 </br>
+### Volunteering
+</br> Junior Achievement USA (financial literacy), Connecticut
+</br> American Red Cross, Alabama
+</br> Make a Wish Foundation, Connecticut
+</br>
+</br>
 ### Additional Information
-📌 I was born and raised in New Haven, Connecticut. I am a strong believer in the power of New Haven apizza.
+📌 I was born and raised in New Haven, Connecticut. I believe in New Haven apizza.
 </br>
 </br>
 
