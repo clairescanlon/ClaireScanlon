@@ -14,6 +14,7 @@ I also love telling stories with data, empowering others with data-driven inform
 </br>
 My life is all about the power of decisions driven by data. I want to help others see that power too.
 </br>
+</br>
 
 ### Projects
 My projects are divided into two categories: ongoing projects and finished projects. Both sections are currently under construction.
@@ -25,6 +26,8 @@ My projects are divided into two categories: ongoing projects and finished proje
   COMING SOON - UNDER CONSTRUCTION
 </br> 🆕
 </br> 🆕
+</br>
+</br>
 
 ### Experience and Skills
 </br>
@@ -43,8 +46,7 @@ My projects are divided into two categories: ongoing projects and finished proje
 </ul>
 </br>
 
-**🧰 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗼𝗼𝗹𝗸𝗶𝘁 / 𝘁𝗲𝗰hnology 𝘀𝘁𝗮𝗰𝗸: 
-**
+🧰 **This is my technical toolkit / technology stack:**
 <ul>
     <li>SQL</li>
     <li>Python</li>
