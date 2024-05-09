@@ -44,7 +44,9 @@ My projects are divided into two categories: ongoing projects and finished proje
   <li>Database Management </li>
   <li>Wealth Management</li>
   <li>Technology Startups</li>
-  <li>Data Storytelling and Visualization </li>
+  <li> Coming Soon </li>
+  <li> Coming Soon </li>
+
 </ul>
 </br>
 
