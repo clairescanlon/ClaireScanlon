@@ -75,8 +75,23 @@ My projects are divided into two categories: ongoing projects and finished proje
  </br>
   </br>
  📊𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗱𝗮𝘁𝗮𝘀𝗲𝘁𝘀 𝗜 𝗵𝗮𝘃𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴:
- </br>
-  COMING SOON - UNDER CONSTRUCTION  </br>
+ <ul>
+    <li><a href="http://www.bls.gov">Bureau of Labor Statistics</a></li>
+    <li><a href="https://ourworldindata.org/">Our World in Data</a></li>
+    <li><a href="https://data.census.gov/">Census Bureau</a></li>
+    <li><a href="https://data.worldbank.org/">World Bank</a></li>
+    <li><a href="http://www.wto.org">World Trade Organization</a></li>
+    <li><a href="http://www.imf.org">International Monetary Fund</a></li>
+    <li><a href="https://www.nps.gov/subjects/gisandmapping/tools-and-data.htm">National Park Service</a></li>
+    <li><a href="https://www.usgs.gov/national-digital-trails/data">USGS</a></li>
+    <li><a href="https://data.ct.gov/">Connecticut Open Data</a></li>
+    <li><a href="https://data.oecd.org/">Organisation for Economic Co-operation and Development (OECD)</a></li>
+    <li><a href=" "> Under Construction - Stay Tuned</a></li>
+    <li><a href=" "> Under Construction - Stay Tuned</a></li>
+    <li><a href=" "> Under Construction - Stay Tuned</a></li>
+    <li><a href=" "> Under Construction - Stay Tuned</a></li>
+ </ul>
+
  </br>
  
 ### Education
