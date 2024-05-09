@@ -20,14 +20,12 @@ My life is all about the power of decisions driven by data. I want to help other
 My projects are divided into two categories: ongoing projects and finished projects. Both sections are currently under construction.
 
  #### ⚙️ Ongoing Portfolio Projects </br>
-  COMING SOON - UNDER CONSTRUCTION
+     COMING SOON - UNDER CONSTRUCTION
 
  #### ✔️ Finished Portfolio Projects </br>
-  COMING SOON - UNDER CONSTRUCTION
-</br> 🆕
-</br> 🆕
-</br>
-</br>
+     COMING SOON - UNDER CONSTRUCTION
+     🆕
+     🆕
 
 ### Experience and Skills
 </br>
