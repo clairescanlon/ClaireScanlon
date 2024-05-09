@@ -41,6 +41,10 @@ My projects are divided into two categories: ongoing projects and finished proje
   <li>Wealth Management</li>
   <li>Technology Startups</li>
   <li>Data Storytelling and Visualization </li>
+  <li>Database Management </li>
+  <li>Wealth Management</li>
+  <li>Technology Startups</li>
+  <li>Data Storytelling and Visualization </li>
 </ul>
 </br>
 
@@ -49,18 +53,22 @@ My projects are divided into two categories: ongoing projects and finished proje
     <li>SQL</li>
     <li>Python</li>
     <li>R</li>
-    <li>Tableau and Power BI</li>
+    <li>Tableau</li>
+    <li>PowerBI</li> 
     <li>Microsoft Excel</li>
     <li>Google Big Query</li>
-    <li>PostgreSQL</li>
+    <li>MySQL</li>
     <li>Oracle</li>
     <li>Snowflake</li>
     <li>Jupyter Notebook</li>
     <li>GitHub</li>
     <li>Jupyter Notebook</li>
-     <li>   COMING SOON - UNDER CONSTRUCTION  </li>
+    <li>Airflow </li>
+    <li> Amazon S3 </li>
+    <li> Google Analytics </li>
+    <li> Filestack </li>
     <li>   COMING SOON - UNDER CONSTRUCTION  </li>
-     <li>   COMING SOON - UNDER CONSTRUCTION  </li>
+    <li>   COMING SOON - UNDER CONSTRUCTION  </li>
     <li>   COMING SOON - UNDER CONSTRUCTION  </li>
     <li>Currently learning Java</li>
 </ul>
