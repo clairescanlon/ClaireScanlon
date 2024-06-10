@@ -6,15 +6,7 @@ Thank you for visiting the technical side of my portfolio. </br> </br>
  🎚️ For non-technical audiences: each completed project has a blog post that explains the project in simple terms. You can find these blog posts linked alongside the project details. 
 
 ### About Me  </br>
-I never saw my hearing loss as a limitation and never let it stop me from doing what I wanted to do. I always felt it gave me an unique strength professionally. It took me a while to figure out exactly what it was. A few years ago, it hit me. I was using data and information in everything I did, both professionally and personally. Every strategy, every process, every decision was driven by data. I was combining different data sources and spotting patterns and trends within the data.
-</br> 
-
-I also love telling stories with data, empowering others with data-driven information. 
-</br>
-</br>
-My life is all about the power of decisions driven by data. I want to help others see that power too.
-</br>
-</br>
+To learn more about me, check out my porfolio website: <a href="https://www.claire-scanlon.com"> About Claire Scanlon</a>
 
 ### Projects
 My projects are divided into two categories: ongoing projects and finished projects. Both sections are currently under construction.
