@@ -33,7 +33,7 @@ My projects are divided into two categories: ongoing projects and finished proje
     </tr>
     <tr>
       <td>Economic Data Analysis</td>
-      <td><a href="https://claire-scanlon.com/economic-data-analysis/">https://claire-scanlon.com/economic-data-analysis/)</a></td>
+      <td><a href="https://claire-scanlon.com/economic-data-analysis/">https://claire-scanlon.com/economic-data-analysis</a></td>
       <td>Coming Soon</td>
       <td>Coming Soon</td>
     </tr>
