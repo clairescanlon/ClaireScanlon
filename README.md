@@ -3,7 +3,6 @@
 Hello! I’m Claire Scanlon, a dedicated data analyst and strategist with a passion for identifying insights from complex data. 
 
 Thank you for visiting the technical side of my portfolio. </br> </br>
- 🎚️ For non-technical audiences: each completed project has a blog post that explains the project in simple terms. You can find these blog posts linked alongside the project details. 
 
 ### About Me  </br>
 To learn more about me, check out my porfolio website: <a href="https://www.claire-scanlon.com"> About Claire Scanlon</a>
@@ -15,9 +14,56 @@ My projects are divided into two categories: ongoing projects and finished proje
      COMING SOON - UNDER CONSTRUCTION
 
  #### ✔️ Finished Portfolio Projects </br>
-     COMING SOON - UNDER CONSTRUCTION
-     🆕
-     🆕
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Project Details</th>
+      <th>GitHub</th>
+      <th>Tableau</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Boosted Revenue with Data-Driven Marketing</td>
+      <td><a href="https://claire-scanlon.com/growth/">https://claire-scanlon.com/growth/</a></td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Economic Data Analysis</td>
+      <td><a href="https://claire-scanlon.com/economic-data-analysis/">https://claire-scanlon.com/economic-data-analysis/)</a></td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
+    <tr>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
+    <tr>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
+    <tr>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
+    <tr>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Experience and Skills
 </br>
