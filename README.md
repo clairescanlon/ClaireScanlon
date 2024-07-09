@@ -38,8 +38,8 @@ My projects are divided into two categories: ongoing projects and finished proje
       <td>Coming Soon</td>
     </tr>
     <tr>
-      <td>Coming Soon</td>
-      <td>Coming Soon</td>
+      <td>Boosting Retail Profits with SQL & Tableau</td>
+      <td><a href="https://claire-scanlon.com/retail-data-analysis">https://claire-scanlon.com/retail-data-analysis</a></td>
       <td>Coming Soon</td>
       <td>Coming Soon</td>
     </tr>
