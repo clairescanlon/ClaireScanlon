@@ -27,27 +27,27 @@ My projects are divided into two categories: ongoing projects and finished proje
   <tbody>
     <tr>
       <td>Boosted Revenue with Data-Driven Marketing</td>
-      <td><a href="https://claire-scanlon.com/growth/">https://claire-scanlon.com/growth/</a></td>
+      <td><a href="https://claire-scanlon.com/growth/">Blog Post</a></td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Economic Data Analysis</td>
-      <td><a href="https://claire-scanlon.com/economic-data-analysis/">https://claire-scanlon.com/economic-data-analysis</a></td>
+      <td><a href="https://claire-scanlon.com/economic-data-analysis/">Blog Post</a></td>
       <td>Coming Soon</td>
       <td>Coming Soon</td>
     </tr>
     <tr>
       <td>Boosting Retail Profits with SQL & Tableau</td>
-      <td><a href="https://claire-scanlon.com/retail-data-analysis">https://claire-scanlon.com/retail-data-analysis</a></td>
+      <td><a href="https://claire-scanlon.com/retail-data-analysis">Blog Post</a></td>
       <td>Coming Soon</td>
       <td>Coming Soon</td>
     </tr>
     <tr>
+      <td>Sales Inventory Analysis</td>
       <td>Coming Soon</td>
-      <td>Coming Soon</td>
-      <td>Coming Soon</td>
-      <td>Coming Soon</td>
+     <td><a href="https://github.com/clairescanlon/ClaireScanlon/blob/c6f1d4138be6756a0936afe1aa89f176b0cae721/Sales%20Inventory%20Analysis">SQL Code</a></td>      
+     <td>Coming Soon</td>
     </tr>
     <tr>
       <td>Coming Soon</td>
