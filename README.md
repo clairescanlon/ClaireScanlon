@@ -46,13 +46,13 @@ My projects are divided into two categories: ongoing projects and finished proje
     <tr>
       <td>Sales Inventory Analysis</td>
       <td>Coming Soon</td>
-     <td><a href="https://github.com/clairescanlon/ClaireScanlon/blob/c6f1d4138be6756a0936afe1aa89f176b0cae721/Sales%20Inventory%20Analysis">SQL Code</a></td>      
+     <td><a href="https://github.com/clairescanlon/ClaireScanlon/blob/c6f1d4138be6756a0936afe1aa89f176b0cae721/Sales%20Inventory%20Analysis">SQL</a></td>      
      <td>Coming Soon</td>
     </tr>
     <tr>
+      <td>Cryptocurrency Data</td>
       <td>Coming Soon</td>
-      <td>Coming Soon</td>
-      <td>Coming Soon</td>
+      <td> <a href="https://github.com/clairescanlon/ClaireScanlon/blob/f6e214d03386ec0b03633b49dfc33274de8d290b/Defining%20Pandas%20Series%20To%20Store%20Cryptocurrency%20Data">Python</a></td>      
       <td>Coming Soon</td>
     </tr>
     <tr>
