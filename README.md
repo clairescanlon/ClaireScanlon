@@ -14,6 +14,7 @@ My projects are divided into two categories: ongoing projects and finished proje
      COMING SOON - UNDER CONSTRUCTION
 
  #### ✔️ Finished Portfolio Projects </br>
+ Under Construction
 
 <table>
   <thead>
@@ -60,7 +61,11 @@ My projects are divided into two categories: ongoing projects and finished proje
       <td><a href="https://claire-scanlon.com/automating-job-search-with-python/">Blog Post - Under Construction</a></td>
       <td><a href="https://github.com/clairescanlon/ClaireScanlon/blob/87ff494304142f7bdeb4be400a1d7c149c9055c1/DataAnalyst_JobPostings_Scraping.ipynb">Python</a></td>
       <td>&nbsp;</td> </tr>
-    
+      <tr>
+      <td>Customer Segmentation with K-means and Regression</td>
+      <td><a href="claire-scanlon.com/segmentation/">Blog Post - Under Construction</a></td>
+      <td><a href="https://github.com/clairescanlon/ClaireScanlon/blob/87ff494304142f7bdeb4be400a1d7c149c9055c1/Customer%20Market%20Segmentation%20(1).ipynb">Python</a></td>
+      <td>&nbsp;</td> </tr>
   </tbody>
 </table>
 
