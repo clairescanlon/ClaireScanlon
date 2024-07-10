@@ -61,6 +61,18 @@ My projects are divided into two categories: ongoing projects and finished proje
       <td>Coming Soon</td>
       <td>Coming Soon</td>
     </tr>
+    <tr>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
+    <tr>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
   </tbody>
 </table>
 
