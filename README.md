@@ -4,12 +4,6 @@ Hello! I’m Claire Scanlon, a dedicated data analyst and strategist with a pass
 
 Thank you for visiting the technical side of my portfolio. </br> </br>
 
-### About Me  </br>
-To learn more about me, check out my porfolio website: <a href="https://www.claire-scanlon.com"> About Claire Scanlon</a>
-
-### Projects
-My projects are divided into two categories: ongoing projects and finished projects. Both sections are currently under construction.
-
  #### ⚙️ Ongoing Portfolio Projects </br>
      COMING SOON - UNDER CONSTRUCTION
 
