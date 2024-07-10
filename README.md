@@ -14,7 +14,7 @@ My projects are divided into two categories: ongoing projects and finished proje
      COMING SOON - UNDER CONSTRUCTION
 
  #### ✔️ Finished Portfolio Projects </br>
- Under Construction
+All Projects can be found at my <a href="https://claire-scanlon.com/">Portfolio Website</a></td>. The below list is under construction and does not include all of the projects. 
 
 <table>
   <thead>
