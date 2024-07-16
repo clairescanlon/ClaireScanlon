@@ -5,7 +5,12 @@ Hello! I’m Claire Scanlon, a dedicated data analyst and strategist with a pass
 Thank you for visiting the technical side of my portfolio. </br> </br>
 
  #### ⚙️ Ongoing Portfolio Projects </br>
-     COMING SOON - UNDER CONSTRUCTION
+Several projects are ongoing. 
+<ul>
+    <li> Personal Project: I decided to do the Google Data Analytics Capstone project again. Instead of using R, I am using = Python and SQL on AWS (Redshift, S3, Glue, etc) </li>
+    <li> Master's Degree projects are also ongoing. Reach out to know more. </li>
+ </ul>
+</br>
 
  #### ✔️ Finished Portfolio Projects </br>
 All Projects can be found at my <a href="https://claire-scanlon.com/">Portfolio Website</a></td>. The below list is under construction and does not include all of the projects. 
