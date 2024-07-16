@@ -7,7 +7,7 @@ Thank you for visiting the technical side of my portfolio. </br> </br>
  #### ⚙️ Ongoing Portfolio Projects </br>
 Several projects are ongoing. 
 <ul>
-    <li> Personal Project: I decided to do the Google Data Analytics Capstone project again. Instead of using R, I am using = Python and SQL on AWS (Redshift, S3, Glue, etc) </li>
+    <li> Personal Project: I decided to do the Google Data Analytics Capstone project again. Instead of using R, I am using Python and SQL on AWS (Redshift, S3, Glue, etc) </li>
     <li> Master's Degree projects are also ongoing. Reach out to know more. </li>
  </ul>
 </br>
