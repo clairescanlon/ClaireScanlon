@@ -103,6 +103,7 @@ All Projects can be found at my <a href="https://claire-scanlon.com/">Portfolio 
     <li>GitHub</li>
     <li>Jupyter Notebook</li>
     <li>Airflow </li>
+     <li> Redshift </li>
     <li> Amazon S3 </li>
     <li> Google Analytics </li>
     <li> Filestack </li>
@@ -138,7 +139,7 @@ All Projects can be found at my <a href="https://claire-scanlon.com/">Portfolio 
 💻 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗠𝗮𝘀𝘁𝗲𝗿’𝘀 𝗶𝗻 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 with a focus on Data Science at University of Colorado, Boulder.  
 </br>
 ### Volunteering
-</br> Junior Achievement USA (financial literacy), Connecticut
+Junior Achievement USA (financial literacy), Connecticut
 </br> American Red Cross, Alabama
 </br> Make a Wish Foundation, Connecticut
 </br>
@@ -148,7 +149,7 @@ All Projects can be found at my <a href="https://claire-scanlon.com/">Portfolio 
 </br>
 </br>
 
-💫 𝗝𝗼𝗯 𝗧𝗶𝘁𝗹𝗲𝘀 𝗼𝗳 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁: Data Analyst, Business Intelligence Analyst, Marketing Data Analyst, Consumer Insights Analyst, Data Steward
+💫 𝗝𝗼𝗯 𝗧𝗶𝘁𝗹𝗲𝘀 𝗼𝗳 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁: Data Analyst, Business Intelligence Analyst, Marketing Data Analyst, Consumer Insights Analyst, Data Engineer, Data-Driven Roles
 </br>
 </br>
 
