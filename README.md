@@ -64,7 +64,12 @@ All Projects can be found at my <a href="https://claire-scanlon.com/">Portfolio 
       <td>Customer Segmentation with K-means and Regression</td>
       <td><a href="claire-scanlon.com/segmentation/">Blog Post - Under Construction</a></td>
       <td><a href="https://github.com/clairescanlon/ClaireScanlon/blob/87ff494304142f7bdeb4be400a1d7c149c9055c1/Customer%20Market%20Segmentation%20(1).ipynb">Python</a></td>
-      <td>&nbsp;</td> </tr>
+        <tr>
+      <td> Identifying Customer Behavior for Data-Driven Marketing Strategy </td>
+      <td><a href="#">Blog Post Coming Soon</a></td>
+         <td>R Code</td>
+         <td>Coming Soon</td>
+   
   </tbody>
 </table>
 
