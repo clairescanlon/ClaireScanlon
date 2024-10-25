@@ -1,0 +1,140 @@
+###### PHASE 2 - PREPARE DATA ######
+
+# Load required packages
+# Install packages only if they are not already installed
+if (!require("tidyverse")) install.packages("tidyverse")
+if (!require("janitor")) install.packages("janitor")
+if (!require("data.validator")) install.packages("data.validator")
+if (!require("lubridate")) install.packages("lubridate")
+if (!require("data.table")) install.packages("data.table")
+if (!require("skimr")) install.packages("skimr")
+if (!require("DataExplorer")) install.packages("DataExplorer")
+if (!require("geosphere")) install.packages("geosphere")
+if (!require("here")) install.packages("here")
+if (!require("hms")) install.packages("hms")
+
+# Load libraries
+library(tidyverse)
+library(janitor)
+library(data.validator)
+library(lubridate) 
+library(data.table)
+library(skimr)
+library(DataExplorer)
+library(geosphere)
+library(here)
+library(hms)
+
+# Set working directory using here::here()
+setwd(here()) 
+
+# Read and combine all CSV files
+cyclistic_data <- list.files(pattern = ".csv") %>% 
+  map_dfr(~ read_csv(.x, col_types = cols(
+    start_station_id = col_character(),
+    end_station_id = col_character()
+  )))
+
+# Explore the data
+head(cyclistic_data)
+summary(cyclistic_data)
+tail(cyclistic_data)
+introduce(cyclistic_data)
+str(cyclistic_data)
+names(cyclistic_data)
+
+# Handle missing values (consider imputation if appropriate)
+cyclistic_data_cleaned <- cyclistic_data %>% 
+  na.omit() 
+
+# Handle duplicate values
+cyclistic_data_cleaned <- cyclistic_data_cleaned %>% 
+  distinct(ride_id, .keep_all = TRUE)
+
+# Feature engineering
+cyclistic_data_cleaned <- cyclistic_data_cleaned %>% 
+  mutate(
+    ride_duration = as.numeric(difftime(ended_at, started_at, units = "mins")),
+    day_of_week = wday(started_at, label = TRUE, abbr = FALSE),
+    time_of_day = as_hms(started_at), # Use hms::as_hms()
+    season = case_when(
+      month(started_at) %in% c(12, 1, 2) ~ "winter",
+      month(started_at) %in% c(3, 4, 5) ~ "spring",
+      month(started_at) %in% c(6, 7, 8) ~ "summer",
+      month(started_at) %in% c(9, 10, 11) ~ "fall",
+      TRUE ~ "unknown" 
+    )
+  )
+
+# Correct data types
+cyclistic_data_cleaned <- cyclistic_data_cleaned %>% 
+  mutate(
+    ride_id = as.character(ride_id),
+    rideable_type = as.factor(rideable_type),
+    start_station_name = as.character(start_station_name),
+    start_station_id = as.character(start_station_id),
+    end_station_name = as.character(end_station_name),
+    end_station_id = as.character(end_station_id),
+    member_casual = as.factor(member_casual),
+    day_of_week = as.factor(day_of_week),
+    season = as.factor(season),
+    start_lat = as.numeric(start_lat),
+    start_lng = as.numeric(start_lng),
+    end_lat = as.numeric(end_lat),
+    end_lng = as.numeric(end_lng)
+  )
+
+# Data validation (add more rules as needed)
+rules <- validator(
+  ride_duration >= 0,
+  !is.na(start_lat),
+  !is.na(start_lng)
+)
+confront(cyclistic_data_cleaned, rules)
+
+# Outlier detection and handling (consider more robust methods)
+# Example: Capping outliers at the 99th percentile
+quantile_99 <- quantile(cyclistic_data_cleaned$ride_duration, 0.99)
+cyclistic_data_cleaned <- cyclistic_data_cleaned %>% 
+  mutate(ride_duration = ifelse(ride_duration > quantile_99, quantile_99, ride_duration)) 
+
+# Split data by user type
+member_data <- cyclistic_data_cleaned %>% 
+  filter(member_casual == "member")
+
+casual_data <- cyclistic_data_cleaned %>% 
+  filter(member_casual == "casual")
+
+
+###### PHASE 4 - ANALYZE DATA ######
+
+# Function to calculate weighted average
+calculate_weighted_avg <- function(data1, data2, variable) {
+  total_rides <- nrow(data1) + nrow(data2)
+  weighted_avg <- (
+    sum(data1[[variable]]) * (nrow(data1) / total_rides) + 
+    sum(data2[[variable]]) * (nrow(data2) / total_rides)
+  ) / total_rides
+  return(weighted_avg)
+}
+
+# Calculate weighted average ride duration
+weighted_avg_duration <- calculate_weighted_avg(member_data, casual_data, "ride_duration")
+
+# Print the result
+cat("Weighted Average Ride Duration:", weighted_avg_duration, "minutes\n")
+
+# Create a summary table
+weighted_average_df <- data.frame(
+  Customer_Group = c("Member", "Casual"),
+  Weighted_Average_Ride_Duration = c(weighted_avg_duration, weighted_avg_duration) 
+)
+
+# Save outputs
+save(cyclistic_data_cleaned, file = "cyclistic_data_cleaned.Rda")
+write_csv(cyclistic_data_cleaned, "cyclistic_data_cleaned.csv", row.names = FALSE)
+save(member_data, file = "member_data.Rda")
+write_csv(member_data, "member_data.csv", row.names = FALSE)
+save(casual_data, file = "casual_data.Rda")
+write_csv(casual_data, "casual_data.csv", row.names = FALSE)
+write.csv(weighted_average_df, "weighted_average_ride_duration.csv", row.names = FALSE)
