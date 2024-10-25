@@ -67,7 +67,7 @@ All Projects can be found at my <a href="https://claire-scanlon.com/">Portfolio 
         <tr>
       <td> Identifying Customer Behavior for Data-Driven Marketing Strategy </td>
       <td><a href="#">Blog Post Coming Soon</a></td>
-      <td><a href="#">R Code</a></td>
+         <td><a href="https://github.com/clairescanlon/ClaireScanlon/blob/e28e39d908c349780859c84eefe13ce4a01b0063/DataDriven-MarketingStrategy">R Code</a></td>
       <td>Coming Soon</td>
    
   </tbody>
