@@ -1,17 +1,30 @@
-# Welcome to my GitHub repository!
+# Welcome to My GitHub Portfolio
 
-Hello! I’m Claire Scanlon, a dedicated data analyst and strategist with a passion for identifying insights from complex data. 
+</br>
+Thank you for visiting my GitHub portfolio. 
+</br>
 
-Thank you for visiting the technical side of my portfolio. </br> </br>
-
- ✉️ If you’re looking for something specific, please reach out to me directly via <a href="mailto:clairehelenscanlon@gmail.com"> e-mail. </a>
+## Important Note  </br>
+This repository is currently undergoing structural changes to adhere to best practices. Not all of my projects are available here yet. If you are looking for a specific project or code that is not currently listed, please feel free to reach out to me directly via  <a href="mailto:clairehelenscanlon@gmail.com"> e-mail </a>.
+</br>
+## Projects Overview
+This portfolio will eventually showcase a selection of my projects, including data analysis and programming work. For now, it is a work in progress. Assume that the repositories listed below are still undergoing changes and updates.
+#### <a href="https://github.com/clairescanlon/Cyclistic-Bike-Share-Analysis">Cyclistic Bike-Share Analysis</a>
+This project involved analyzing bike-sharing data from Cyclistic in Chicago to understand differences between annual members and casual riders. R was used for this project. 
+</br>
+#### Other Projects
+Additional projects will be added and integrated into this portfolio.
+</br>
+</br>
+## Technical Skills
+*Coming Soon* 
 
 </br>
 </br>
 </br>
 
 #### Footnotes
-🔴 *Please note that my online portfolio does not reflect all of the projects I worked on. Reach out to me directly via  <a href="mailto:clairehelenscanlon@gmail.com"> e-mail </a> if you are looking for something specific.  </br>
+
 🟢 This homepage was inspired and modeled by Tucker Rasbury (https://github.com/TuckerRasbury/TuckerRasbury/edit/main/README.md)
 
 
