@@ -1,4 +1,5 @@
-# Welcome to My GitHub Portfolio
+# Claire Scanlon’s Portfolio
+
 
 </br>
 Thank you for visiting my GitHub portfolio.  This is where I share the technical implementation details of projects.
