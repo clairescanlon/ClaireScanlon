@@ -10,9 +10,20 @@ Thank you for visiting my GitHub portfolio.  This is where I share technical imp
 </br>
 
 ## Projects Overview
-Additional projects will be added and integrated into this portfolio.
+| Project Name | Case Study | Technical Implementation |
+|  :---:       |     :---:      |   :---:    |
+| ETL Pipeline on AWS   | Coming Soon    | Coming Soon  |
+| Fraud Detection   | Coming Soon    | Coming Soon  |
+| Coming Soon  | Coming Soon    | Coming Soon  |
+| Coming Soon  | Coming Soon    | Coming Soon  |
+| Coming Soon  | Coming Soon    | Coming Soon  |
+
+
+> **Note:** *More information and projects coming soon*
+
 </br>
 </br>
+
 ## Technical Skills
 *Coming Soon* 
 
@@ -28,5 +39,7 @@ Additional projects will be added and integrated into this portfolio.
 
 🟢 This homepage was inspired and modeled by Tucker Rasbury (https://github.com/TuckerRasbury/TuckerRasbury/edit/main/README.md)
 
-
+</br>
+</br>
+</br>
 *Last updated: August 7, 2025*  
