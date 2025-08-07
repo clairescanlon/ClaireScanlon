@@ -7,10 +7,10 @@ Thank you for visiting my GitHub portfolio.  This is where I share the technical
 </br>
 
 ## Important Note  </br>
-This repository is currently undergoing structural changes to adhere to best practices. Not all of my projects are available here yet. If you are looking for a specific project or code that is not currently listed, please feel free to reach out to me directly via  <a href="mailto:clairehelenscanlon@gmail.com"> e-mail</a>.
+> **Note:** This is under active restructuring and construction. Not all projects are available yet. For code or projects not listed, please [contact me via email](mailto:clairehelenscanlon@gmail.com?subject=GitHub%20Portfolio).
 </br>
-## Projects Overview
 
+## Projects Overview
 Additional projects will be added and integrated into this portfolio.
 </br>
 </br>
@@ -21,8 +21,13 @@ Additional projects will be added and integrated into this portfolio.
 </br>
 </br>
 
+## Security & Compliance
+  - No PII, client/customer information, or proprietary data included. All clients and company names are kept confidential. 
+  - Environment variables and sensitive information managed via placeholders in `.env.example`  
+
 #### Footnotes
 
 🟢 This homepage was inspired and modeled by Tucker Rasbury (https://github.com/TuckerRasbury/TuckerRasbury/edit/main/README.md)
 
 
+*Last updated: August 7, 2025*  
