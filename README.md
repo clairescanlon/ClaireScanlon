@@ -1,14 +1,13 @@
 # Claire Scanlon’s Portfolio
-
-
 </br>
-Thank you for visiting my GitHub portfolio.  This is where I share the technical implementation details of projects.
-
-
+Thank you for visiting my GitHub portfolio.  This is where I share technical implementation details of projects.
 </br>
 
-## Important Note  </br>
+## Important Notes  </br>
 > **Note:** This is under active restructuring and construction. Not all projects are available yet. For code or projects not listed, please [contact me via email](mailto:clairehelenscanlon@gmail.com?subject=GitHub%20Portfolio).
+</br>
+
+> **Note:** All code samples and data provided here are example or synthetic data only. They do *not* contain any real client, customer, or proprietary information.
 </br>
 
 ## Projects Overview
