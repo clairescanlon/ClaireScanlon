@@ -35,12 +35,5 @@ Thank you for visiting my GitHub portfolio.  This is where I share technical imp
   - No PII, client/customer information, or proprietary data included. All clients and company names are kept confidential. 
   - Environment variables and sensitive information managed via placeholders in `.env.example`  
 
-#### Footnotes
 
-🟢 This homepage was inspired and modeled by Tucker Rasbury (https://github.com/TuckerRasbury/TuckerRasbury/edit/main/README.md)
-
-</br>
-</br>
-</br>
-
-*Last updated: August 7, 2025*  
+*Last updated: August 13, 2025*  
