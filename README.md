@@ -12,7 +12,7 @@ Thank you for visiting my GitHub portfolio.  This is where I share technical imp
 ## Projects Overview
 | Project Name | Case Study | Technical Implementation |
 |  :---:       |     :---:      |   :---:    |
-| ETL Pipeline on AWS   | Coming Soon    | Coming Soon  |
+| ETL Pipeline on AWS   | Coming Soon    | [GitHub Repository](https://github.com/clairescanlon/serverless-financial-data-pipeline) |
 | Fraud Detection   | Coming Soon    | Coming Soon  |
 | Coming Soon  | Coming Soon    | Coming Soon  |
 | Coming Soon  | Coming Soon    | Coming Soon  |
@@ -33,7 +33,7 @@ Thank you for visiting my GitHub portfolio.  This is where I share technical imp
 
 ## Security & Compliance
   - No PII, client/customer information, or proprietary data included. All clients and company names are kept confidential. 
-  - Environment variables and sensitive information managed via placeholders in `.env.example`  
 
 
-*Last updated: August 13, 2025*  
+
+*Last updated: August 26, 2025*  
