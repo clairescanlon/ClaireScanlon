@@ -12,7 +12,7 @@ Thank you for visiting my GitHub portfolio.  This is where I share technical imp
 ## Projects Overview
 | Project Name | Case Study | Technical Implementation |
 |  :---:       |     :---:      |   :---:    |
-| ETL Pipeline on AWS   | Coming Soon    | [GitHub Repository](https://github.com/clairescanlon/serverless-financial-data-pipeline) |
+| ETL Pipeline on AWS   |  [How I Increased Efficiency with an AWS ETL Pipeline](https://claire-scanlon.com/aws-data-pipeline/) | [GitHub Repository](https://github.com/clairescanlon/serverless-financial-data-pipeline) |
 | Fraud Detection | Coming Soon    | Coming Soon  |
 | Campaign Finance Dashboard | Coming Soon    | Coming Soon  |
 | Direct Voter Contact Dashboard | Coming Soon    | Coming Soon  |
