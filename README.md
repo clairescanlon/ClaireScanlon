@@ -42,9 +42,4 @@ Thank you for visiting my GitHub portfolio.  This is where I share technical imp
 </br>
 </br>
 
-## Security & Compliance
-  - No PII, client/customer information, or proprietary data included. All clients and company names are kept confidential. 
-
-
-
-*Last updated: August 26, 2025*  
+*Last updated: November 3, 2025*
