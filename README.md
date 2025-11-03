@@ -6,7 +6,14 @@ Thank you for visiting my GitHub portfolio.  This is where I share technical imp
 > **Note:** This is under active restructuring and construction. For programming work samples not yet published, please [contact me via email](mailto:clairehelenscanlon@gmail.com?subject=GitHub%20Portfolio).
 </br>
 
-> **Note:** All code samples and data provided here are example or synthetic data only. They do *not* contain any real client, customer, or proprietary information.
+> **Note: All code samples and data provided in this repository are example or synthetic data only.**
+> They do not contain any real client, customer, or proprietary information. 
+> - No PII (Personally Identifiable Information) included
+> - No client/customer information included
+> - No proprietary or production data included
+> - All clients and company names are kept confidential
+> - Data structures and workflows reflect real-world patterns, but use simulated values for demonstration purposes only
+
 </br>
 
 ## Projects Overview
