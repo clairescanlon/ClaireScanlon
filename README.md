@@ -1,45 +1,26 @@
 # Claire Scanlon’s Portfolio
-Thank you for visiting my GitHub portfolio.  This is where I share technical implementation details of projects.
+Welcome to my GitHub portfolio. This repository showcases my technical work across **data engineering**, **AWS cloud computing**, **analytics**, and **strategic data analysis**. 
 </br>
 
-## Important Notes  </br>
-> **Note:** This is under active restructuring and construction. For programming work samples not yet published, please [contact me via email](mailto:clairehelenscanlon@gmail.com?subject=GitHub%20Portfolio).
-</br>
+## 📁 Featured Projects & Repositories
+| Portfolio | Description | Repository | Status |
+|-----------|-------------|-----------|--------|
+| **Exploratory Data Analysis (EDA)** | Modular Python tools for systematic data understanding: data quality, distributions, correlations, outlier detection, segmentation, temporal analysis, statistical testing, and feature importance. | [`eda-portfolio`](https://github.com/clairescanlon/eda-portfolio) | ✅ Published |
 
-> **Note: All code samples and data provided in this repository are example or synthetic data only.**
-> They do not contain any real client, customer, or proprietary information. 
-> - No PII (Personally Identifiable Information) included
-> - No client/customer information included
-> - No proprietary or production data included
-> - All clients and company names are kept confidential
-> - Data structures and workflows reflect real-world patterns, but use simulated values for demonstration purposes only
+## 🔒 Important Notes
 
-</br>
+> [!NOTE]
+> **Status**: This portfolio is under active restructuring and expansion. New projects and documentation are being added regularly.
 
-## Projects Overview
-| Project Name | Case Study | Technical Implementation |
-|  :---:       |     :---:      |   :---:    |
-| ETL Pipeline on AWS   |  [How I Increased Efficiency with an AWS ETL Pipeline](https://claire-scanlon.com/aws-data-pipeline/) | [GitHub Repository](https://github.com/clairescanlon/serverless-financial-data-pipeline) |
-| Fraud Detection | Coming Soon    | Coming Soon  |
-| Campaign Finance Dashboard | Coming Soon    | Coming Soon  |
-| Direct Voter Contact Dashboard | Coming Soon    | Coming Soon  |
-| Systemic Strategy & Risk Analysis | Coming Soon    | Coming Soon  |
-| Database Management | Coming Soon    | Coming Soon  |
-| Win Number Calculations  | Coming Soon    | Coming Soon  |
-| Customer Segmentation & Targeting  | Coming Soon    | Coming Soon  |
-| Multi-Source Contact Integration | Coming Soon    | Coming Soon  |
-| Coming Soon  | Coming Soon    | Coming Soon  |
+> [!IMPORTANT]
+> **Data Confidentiality**: All code samples and data in this repository are **example or synthetic data only**. 
+> - ✓ No PII (Personally Identifiable Information)
+> - ✓ No client/customer information
+> - ✓ No proprietary or production data
+> - ✓ All client/company names kept confidential
+> - ✓ Data structures reflect real-world patterns using simulated values for demonstration
 
-> **Note:** *More information and projects coming soon*
+---
 
-</br>
-</br>
 
-## Technical Skills
-*Coming Soon* 
-
-</br>
-</br>
-</br>
-
-*Last updated: November 3, 2025*
+*Last updated: November 17, 2025*
