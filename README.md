@@ -6,6 +6,7 @@ Welcome to my GitHub portfolio. This repository showcases my technical work acro
 | Portfolio | Description | Repository | Status |
 |-----------|-------------|-----------|--------|
 | **Exploratory Data Analysis (EDA)** | Modular Python tools for systematic data understanding: data quality, distributions, correlations, outlier detection, segmentation, temporal analysis, statistical testing, and feature importance. | [`eda-portfolio`](https://github.com/clairescanlon/eda-portfolio) | ✅ Published |
+| **SQL** | Coming Soon | [`sql-portfolio`](https://github.com/clairescanlon/sql-portfolio) | 🚧 Under Construction |
 
 ## 🔒 Important Notes
 
