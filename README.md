@@ -22,6 +22,17 @@ Welcome to my GitHub portfolio. This repository showcases my technical work acro
 > - ✓ Data structures reflect real-world patterns using simulated values for demonstration
 
 ---
+## 👤 Author
+Claire Scanlon 
+* AWS Certified Cloud Practitioner
+* Full stack data professional
+---
+## 🔗 Connect
+* GitHub: [Claire Scanlon GitHub](https://github.com/clairescanlon/)
+* LinkedIn: [Claire Scanlon](https://www.linkedin.com/in/clairescanlon/)
+* Portfolio: [Website](https://www.claire-scanlon.com)
+* Medium: [Insights, Tutorials, and Thought Leadership](https://medium.com/@clairehelenscanlon)
+---
 
 
 > *Last updated: November 25, 2025*  
