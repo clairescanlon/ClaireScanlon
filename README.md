@@ -24,5 +24,5 @@ Welcome to my GitHub portfolio. This repository showcases my technical work acro
 ---
 
 
-> *Last updated: November 17, 2025*  
+> *Last updated: November 25, 2025*  
 > *Status: Under Active Development*
