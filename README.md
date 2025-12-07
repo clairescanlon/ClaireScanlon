@@ -5,8 +5,11 @@ Welcome to my GitHub portfolio. This repository showcases my technical work acro
 ## 📁 Featured Projects & Repositories
 | Portfolio | Description | Repository | Status |
 |-----------|-------------|-----------|--------|
+| **Serverless Financial Data Pipeline** | AWS serverless financial transaction processing pipeline | [`serverless-financial-data-pipeline`](https://github.com/clairescanlon/serverless-financial-data-pipeline) | 🚧 Under Construction |
 | **Exploratory Data Analysis (EDA)** | Modular Python tools for systematic data understanding: data quality, distributions, correlations, outlier detection, segmentation, temporal analysis, statistical testing, and feature importance. | [`eda-portfolio`](https://github.com/clairescanlon/eda-portfolio) | ✅ Published |
 | **SQL** | Coming Soon | [`sql-portfolio`](https://github.com/clairescanlon/sql-portfolio) | 🚧 Under Construction |
+
+
 
 ## 🔒 Important Notes
 
@@ -35,5 +38,5 @@ Claire Scanlon
 ---
 
 
-> *Last updated: November 25, 2025*  
+> *Last updated: December 7, 2025*  
 > *Status: Under Active Development*
