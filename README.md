@@ -5,6 +5,7 @@ Welcome to my GitHub portfolio. This repository showcases my technical work acro
 ## 📁 Featured Projects & Repositories
 | Portfolio | Description | Repository | Status |
 |-----------|-------------|-----------|--------|
+| **Automated Institutional Intelligence Pipeline** | Automated intelligence engine transforming dense PDFs into a structured relational database. | [`automated-institutional-intelligence-pipeline`](https://github.com/clairescanlon/automated-institutional-intelligence-pipeline) | 🚧 Under Construction |
 | **Serverless Financial Data Pipeline** | AWS serverless financial transaction processing pipeline | [`serverless-financial-data-pipeline`](https://github.com/clairescanlon/serverless-financial-data-pipeline) | 🚧 Under Construction |
 | **Exploratory Data Analysis (EDA)** | Modular Python tools for systematic data understanding: data quality, distributions, correlations, outlier detection, segmentation, temporal analysis, statistical testing, and feature importance. | [`eda-portfolio`](https://github.com/clairescanlon/eda-portfolio) | ✅ Published |
 | **SQL** | Coming Soon | [`sql-portfolio`](https://github.com/clairescanlon/sql-portfolio) | 🚧 Under Construction |
@@ -33,10 +34,9 @@ Claire Scanlon
 ## 🔗 Connect
 * GitHub: [Claire Scanlon GitHub](https://github.com/clairescanlon/)
 * LinkedIn: [Claire Scanlon](https://www.linkedin.com/in/clairescanlon/)
-* Portfolio: [Website](https://www.claire-scanlon.com)
 * Medium: [Insights, Tutorials, and Thought Leadership](https://medium.com/@clairehelenscanlon)
 ---
 
 
-> *Last updated: December 7, 2025*  
+> *Last updated: February 28, 2026*  
 > *Status: Under Active Development*
